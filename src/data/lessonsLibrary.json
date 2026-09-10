@@ -1,0 +1,2816 @@
+[
+  {
+    "id": "elec-1-1",
+    "title": "التكهرب وطرق التكهرب",
+    "frenchTitle": "L'électrisation et ses modes",
+    "fieldId": "electricity",
+    "fieldTitle": "الظواهر الكهربائية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "ظاهرة التكهرب وتوليد الشحنات على الأجسام بالدلك واللمس والتأثير مع شحنتي الإيبونيت والزجاج.",
+    "objectives": [
+      "التعرف على مفهوم التكهرب وأنواعه (بالدلك، باللمس، بالتأثير).",
+      "التمييز بين الشحنة الموجبة (الزجاج المشحون) والشحنة السالبة (الإيبونيت/البلاستيك المشحون).",
+      "تفسير تجارب النواس الكهربائي والكاشف الكهربائي بدقة علمية."
+    ],
+    "concepts": [
+      {
+        "title": "مفهوم التكهرب (Électrisation)",
+        "content": "هو اكتساب جسم لشحنة كهربائية نتيجة انتقال الإلكترونات منه أو إليه."
+      },
+      {
+        "title": "طرق التكهرب الثلاث",
+        "content": "1. بالدلك (Frottement): دلك قضيب إيبونيت بصوف يكسبه شحنة سالبة، ودلك الزجاج بحرير يكسبه شحنة موجبة.\n2. باللمس (Contact): تلامس جسم مشحون مع جسم متعادل فينتقل جزء من الشحنة إليه ويكون لهما نفس نوع الشحنة.\n3. بالتأثير (Influence): تقريب جسم مشحون دون ملامسة مما يسبب استقطاب الشحنات وإعادة توزعها."
+      },
+      {
+        "title": "شحنة الزجاج والإيبونيت",
+        "content": "اصطلاحاً: الزجاج المدلوك يحمل شحنة كهربائية موجبة (+)، بينما الإيبونيت أو البلاستيك المدلوك يحمل شحنة سالبة (-)."
+      }
+    ],
+    "formulas": [
+      {
+        "id": "f-q",
+        "name": "كمية الشحنة الكهربائية",
+        "expression": "q = n × e",
+        "explanation": "الشحنة الكلية لجسم تساوي عدد الإلكترونات المكتسبة أو المفقودة مضروباً في الشحنة العنصرية.",
+        "units": [
+          {
+            "symbol": "q",
+            "meaning": "الشحنة الكهربائية",
+            "unit": "كولوم (C)"
+          },
+          {
+            "symbol": "n",
+            "meaning": "عدد الإلكترونات (عدد طبيعي)",
+            "unit": "بدون وحدة"
+          },
+          {
+            "symbol": "e",
+            "meaning": "الشحنة العنصرية (1.6 × 10^-19)",
+            "unit": "كولوم (C)"
+          }
+        ],
+        "example": "جسم اكتسب 10^12 إلكتروناً، شحنته: q = - (10^12 × 1.6 × 10^-19) = - 1.6 × 10^-7 C"
+      }
+    ],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-elec-1-1.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-التكهرب-وطرق-التكهرب-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-elec-1-1-1",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=2BVDN3TgAmE",
+        "videoId": "2BVDN3TgAmE",
+        "thumbnail": "https://img.youtube.com/vi/2BVDN3TgAmE/hqdefault.jpg",
+        "duration": "18:24"
+      },
+      {
+        "id": "vid-elec-1-1-2",
+        "teacherName": "أ. زكرياء مومني",
+        "channelName": "الأستاذ زكرياء مومني",
+        "youtubeUrl": "https://www.youtube.com/watch?v=bxhrPYKQiJI",
+        "videoId": "bxhrPYKQiJI",
+        "thumbnail": "https://img.youtube.com/vi/bxhrPYKQiJI/hqdefault.jpg",
+        "duration": "14:50"
+      },
+      {
+        "id": "vid-elec-1-1-3",
+        "teacherName": "أ. عقبة - نوافذ التعليمية",
+        "channelName": "نوافذ التعليمية - NAWAFID",
+        "youtubeUrl": "https://www.youtube.com/watch?v=zSHGuU3anF0",
+        "videoId": "zSHGuU3anF0",
+        "thumbnail": "https://img.youtube.com/vi/zSHGuU3anF0/hqdefault.jpg",
+        "duration": "16:15"
+      },
+      {
+        "id": "vid-elec-1-1-4",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ecXwyLwAyj4",
+        "videoId": "ecXwyLwAyj4",
+        "thumbnail": "https://img.youtube.com/vi/ecXwyLwAyj4/hqdefault.jpg",
+        "duration": "32:10"
+      },
+      {
+        "id": "vid-elec-1-1-5",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=bxhrPYKQiJI",
+        "videoId": "bxhrPYKQiJI",
+        "thumbnail": "https://img.youtube.com/vi/bxhrPYKQiJI/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "elec-1-2",
+    "title": "الفعلان المتبادلان بين جسمين مشحونين",
+    "frenchTitle": "Interactions entre corps électrisés",
+    "fieldId": "electricity",
+    "fieldTitle": "الظواهر الكهربائية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "قوى التنافر والتجاذب الكهروساكنة وتفسير حركة كرية النواس وورقتي الكاشف الكهربائي.",
+    "objectives": [
+      "معرفة قاعدة التجاذب والتنافر بين الشحنات الكهربائية.",
+      "تفسير انفراج ورقتي الكاشف الكهربائي عند لمسه أو تقريب جسم مشحون منه.",
+      "استنتاج نوع الشحنة لجسم مجهول باستعمال أجسام مرجعية."
+    ],
+    "concepts": [
+      {
+        "title": "قاعدة الفعلين المتبادلين",
+        "content": "الشحنات المتماثلة تتنافر (موجب مع موجب، أو سالب مع سالب). الشحنات المختلفة تتجاذب (موجب مع سالب)."
+      },
+      {
+        "title": "الكاشف الكهربائي (Électroscope)",
+        "content": "جهاز يتكون من قرص معدني وساق معدنية تنتهي بورقتين خفيفتين من الألومنيوم. عند شحنه، تنفرج الورقتان لتنافر الشحنات المماثلة."
+      }
+    ],
+    "formulas": [],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-elec-1-2.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-الفعلان-المتبادلان-بين-جسمين-مشحونين-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-elec-1-2-1",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس",
+        "youtubeUrl": "https://www.youtube.com/watch?v=scv07SaUvY8",
+        "videoId": "scv07SaUvY8",
+        "thumbnail": "https://img.youtube.com/vi/scv07SaUvY8/hqdefault.jpg",
+        "duration": "21:04"
+      },
+      {
+        "id": "vid-elec-1-2-2",
+        "teacherName": "أ. عقبة - نوافذ التعليمية",
+        "channelName": "نوافذ التعليمية - NAWAFID",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KzlgiDrmbD8",
+        "videoId": "KzlgiDrmbD8",
+        "thumbnail": "https://img.youtube.com/vi/KzlgiDrmbD8/hqdefault.jpg",
+        "duration": "15:42"
+      },
+      {
+        "id": "vid-elec-1-2-3",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الأستاذ حمياني للعلوم الفيزيائية",
+        "youtubeUrl": "https://www.youtube.com/watch?v=scv07SaUvY8",
+        "videoId": "scv07SaUvY8",
+        "thumbnail": "https://img.youtube.com/vi/scv07SaUvY8/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-elec-1-2-4",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KzlgiDrmbD8",
+        "videoId": "KzlgiDrmbD8",
+        "thumbnail": "https://img.youtube.com/vi/KzlgiDrmbD8/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-elec-1-2-5",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=scv07SaUvY8",
+        "videoId": "scv07SaUvY8",
+        "thumbnail": "https://img.youtube.com/vi/scv07SaUvY8/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "elec-2-1",
+    "title": "نموذج الذرة",
+    "frenchTitle": "Structure de l'atome",
+    "fieldId": "electricity",
+    "fieldTitle": "الظواهر الكهربائية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "بنية الذرة من نواة مركزية موجبة الشحنة وسحابة من الإلكترونات تدور حولها، ومفهوم التعادل الكهربائي.",
+    "objectives": [
+      "وصف مكونات الذرة: النواة (بروتونات + نيوترونات) والإلكترونات.",
+      "فهم التعادل الكهربائي للذرة (مجموع الشحنات الموجبة = القيمة المطلقة لمجموع الشحنات السالبة).",
+      "حساب الشحنة الإجمالية للنواة وشحنة السحابة الإلكترونية."
+    ],
+    "concepts": [
+      {
+        "title": "مكونات الذرة (Constituants de l'atome)",
+        "content": "تتكون الذرة من:\n1. نواة مركزية ثقيلة موجبة تحتوي على بروتونات موجبة الشحنة ونيوترونات متعادلة كهربائياً.\n2. إلكترونات سالبة الشحنة وخفيفة جداً تدور في مدارات حول النواة."
+      },
+      {
+        "title": "التعادل الكهربائي (Neutralité électrique)",
+        "content": "في الذرة المتعادلة: عدد البروتونات داخل النواة يساوي تماماً عدد الإلكترونات التي تدور حولها، لذلك شحنتها الإجمالية معدومة Q = 0."
+      }
+    ],
+    "formulas": [
+      {
+        "id": "f-qnoyau",
+        "name": "شحنة نواة الذرة",
+        "expression": "Q_noyau = + Z × e",
+        "explanation": "Z هو العدد الذري (عدد البروتونات) و e هي الشحنة العنصرية.",
+        "units": [
+          {
+            "symbol": "Z",
+            "meaning": "العدد الشحني أو الذري",
+            "unit": "بدون وحدة"
+          },
+          {
+            "symbol": "e",
+            "meaning": "الشحنة العنصرية (1.6 × 10^-19)",
+            "unit": "كولوم (C)"
+          }
+        ]
+      }
+    ],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-elec-2-1.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-نموذج-الذرة-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-elec-2-1-1",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الاستاذ حمياني للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=wqLmqevT2Ds",
+        "videoId": "wqLmqevT2Ds",
+        "thumbnail": "https://img.youtube.com/vi/wqLmqevT2Ds/hqdefault.jpg",
+        "duration": "23:10"
+      },
+      {
+        "id": "vid-elec-2-1-2",
+        "teacherName": "الأستاذ مهيدي للرياضيات و الفيزياء",
+        "channelName": "الأستاذ مهيدي للرياضيات و الفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=s-ht3vAxG-I",
+        "videoId": "s-ht3vAxG-I",
+        "thumbnail": "https://img.youtube.com/vi/s-ht3vAxG-I/hqdefault.jpg",
+        "duration": "19:45"
+      },
+      {
+        "id": "vid-elec-2-1-3",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=s-ht3vAxG-I",
+        "videoId": "s-ht3vAxG-I",
+        "thumbnail": "https://img.youtube.com/vi/s-ht3vAxG-I/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-elec-2-1-4",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=s-ht3vAxG-I",
+        "videoId": "s-ht3vAxG-I",
+        "thumbnail": "https://img.youtube.com/vi/s-ht3vAxG-I/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-elec-2-1-5",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=wqLmqevT2Ds",
+        "videoId": "wqLmqevT2Ds",
+        "thumbnail": "https://img.youtube.com/vi/wqLmqevT2Ds/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "elec-2-2",
+    "title": "تفسير ظاهرة التكهرب",
+    "frenchTitle": "Interprétation de l'électrisation",
+    "fieldId": "electricity",
+    "fieldTitle": "الظواهر الكهربائية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "التفسير المجهري للتكهرب على مستوى الذرة بفقدان أو اكتساب الإلكترونات الحرة.",
+    "objectives": [
+      "تفسير التكهرب مجهرياً بفقد واكتساب الإلكترونات.",
+      "ربط شحنة الجسم بعدد الإلكترونات المنتقلة.",
+      "تحليل ظاهرة التأثير الكهربائي واستقطاب المادة."
+    ],
+    "concepts": [
+      {
+        "title": "التفسير المجهري للتكهرب",
+        "content": "عند الدلك:\n- الجسم الذي يفقد إلكترونات تصبح شحنته موجبة (نقص في الإلكترونات).\n- الجسم الذي يكتسب إلكترونات تصبح شحنته سالبة (فائض في الإلكترونات)."
+      }
+    ],
+    "formulas": [],
+    "download": {
+      "pdfUrl": "",
+      "wordUrl": "https://example.com/downloads/bem-physique-elec-2-2.docx",
+      "fileName": "درس-تفسير-ظاهرة-التكهرب-4متوسط.docx",
+      "fileType": "word",
+      "fileSize": "1.1 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-elec-2-2-1",
+        "teacherName": "prof ihab I الأستاذ إيهاب",
+        "channelName": "prof ihab I الأستاذ إيهاب",
+        "youtubeUrl": "https://www.youtube.com/watch?v=dp9tL47DSRM",
+        "videoId": "dp9tL47DSRM",
+        "thumbnail": "https://img.youtube.com/vi/dp9tL47DSRM/hqdefault.jpg",
+        "duration": "17:30"
+      },
+      {
+        "id": "vid-elec-2-2-2",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vlvtequACKo",
+        "videoId": "vlvtequACKo",
+        "thumbnail": "https://img.youtube.com/vi/vlvtequACKo/hqdefault.jpg",
+        "duration": "28:15"
+      },
+      {
+        "id": "vid-elec-2-2-3",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الأستاذ حمياني للعلوم الفيزيائية",
+        "youtubeUrl": "https://www.youtube.com/watch?v=dp9tL47DSRM",
+        "videoId": "dp9tL47DSRM",
+        "thumbnail": "https://img.youtube.com/vi/dp9tL47DSRM/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-elec-2-2-4",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vlvtequACKo",
+        "videoId": "vlvtequACKo",
+        "thumbnail": "https://img.youtube.com/vi/vlvtequACKo/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-elec-2-2-5",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=dp9tL47DSRM",
+        "videoId": "dp9tL47DSRM",
+        "thumbnail": "https://img.youtube.com/vi/dp9tL47DSRM/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "elec-2-3",
+    "title": "النواقل والعوازل",
+    "frenchTitle": "Conducteurs et isolants",
+    "fieldId": "electricity",
+    "fieldTitle": "الظواهر الكهربائية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "الفرق المجهري بين المواد الناقلة للكهرباء والمواد العازلة، وحركة الإلكترونات الحرة.",
+    "objectives": [
+      "تعريف الناقل الكهربائي بوجود إلكترونات حرة الحركة.",
+      "تعريف العازل الكهربائي بكون إلكتروناته شديدة الارتباط بأنويتها.",
+      "تطبيق المفهوم في تجارب النواس الكهربائي بساق معدنية وساق بلاستيكية."
+    ],
+    "concepts": [
+      {
+        "title": "النواقل الكهربائية (Conducteurs)",
+        "content": "مواد تسمح بمرور الشحنات الكهربائية (الإلكترونات الحرة) عبرها بسهولة، مثل: المعادن (النحاس، الحديد، الفضة)، والغرافيت، والمحاليل الشاردية."
+      },
+      {
+        "title": "العوازل الكهربائية (Isolants)",
+        "content": "مواد لا تحتوي على إلكترونات حرة، فإلكتروناتها مقيدة بشدة، ولا تسمح بمرور الشحنات، مثل: الخشب الجاف، البلاستيك، الزجاج، الهواء الجاف."
+      }
+    ],
+    "formulas": [],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-elec-2-3.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-النواقل-والعوازل-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-elec-2-3-1",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس",
+        "youtubeUrl": "https://www.youtube.com/watch?v=o_rVF6Bv_vc",
+        "videoId": "o_rVF6Bv_vc",
+        "thumbnail": "https://img.youtube.com/vi/o_rVF6Bv_vc/hqdefault.jpg",
+        "duration": "16:50"
+      },
+      {
+        "id": "vid-elec-2-3-2",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الاستاذ حمياني للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ekW7uBPyhWA",
+        "videoId": "ekW7uBPyhWA",
+        "thumbnail": "https://img.youtube.com/vi/ekW7uBPyhWA/hqdefault.jpg",
+        "duration": "14:20"
+      },
+      {
+        "id": "vid-elec-2-3-3",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ekW7uBPyhWA",
+        "videoId": "ekW7uBPyhWA",
+        "thumbnail": "https://img.youtube.com/vi/ekW7uBPyhWA/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-elec-2-3-4",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=o_rVF6Bv_vc",
+        "videoId": "o_rVF6Bv_vc",
+        "thumbnail": "https://img.youtube.com/vi/o_rVF6Bv_vc/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-elec-2-3-5",
+        "teacherName": "أ. عقبة للفيزياء",
+        "channelName": "فيزياء BEM مع الأستاذ عقبة",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ekW7uBPyhWA",
+        "videoId": "ekW7uBPyhWA",
+        "thumbnail": "https://img.youtube.com/vi/ekW7uBPyhWA/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "elec-3-1",
+    "title": "إنتاج تيار كهربائي متناوب",
+    "frenchTitle": "Production du courant alternatif",
+    "fieldId": "electricity",
+    "fieldTitle": "الظواهر الكهربائية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "ظاهرة التحريض الكهرومغناطيسي، دور الوشيعة والمغناطيس (المنوب).",
+    "objectives": [
+      "إجراء تجربة التحريض الكهرومغناطيسي وتوليد تيار متناوب.",
+      "تحديد عناصر المنوب: العنصر المحرّض (المغناطيس) والعنصر المتحرّض (الوشيعة).",
+      "استنتاج جهة التيار المتناوب المتغيرة باستمرار بواسطة صمامين ضوئيين متعاكسين."
+    ],
+    "concepts": [
+      {
+        "title": "ظاهرة التحريض الكهرومغناطيسي (Induction électromagnétique)",
+        "content": "عند تحريك مغناطيس أمام وشيعة أو تدويره داخلها، يتولد في دارة الوشيعة المغلقة تيار كهربائي يسمى تياراً كهربائياً متحرضاً، والتوتر بين طرفيها توتر كهربائي متناوب."
+      },
+      {
+        "title": "مكونات المنوب (Alternateur)",
+        "content": "1. الجزء الدوار (Rotor): مغناطيس أو وشيعة يمثل العنصر المحرّض.\n2. الجزء الثابت (Stator): وشيعة تمثل العنصر المتحرّض.\nمثال تطبيقي: دينامو الدراجة."
+      }
+    ],
+    "formulas": [],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-elec-3-1.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-إنتاج-تيار-كهربائي-متناوب-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-elec-3-1-1",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس",
+        "youtubeUrl": "https://www.youtube.com/watch?v=yWbXGU9Wp_w",
+        "videoId": "yWbXGU9Wp_w",
+        "thumbnail": "https://img.youtube.com/vi/yWbXGU9Wp_w/hqdefault.jpg",
+        "duration": "31:40"
+      },
+      {
+        "id": "vid-elec-3-1-2",
+        "teacherName": "الأستاذ ريان",
+        "channelName": "الأستاذ ريان",
+        "youtubeUrl": "https://www.youtube.com/watch?v=cPz98USIzKk",
+        "videoId": "cPz98USIzKk",
+        "thumbnail": "https://img.youtube.com/vi/cPz98USIzKk/hqdefault.jpg",
+        "duration": "18:55"
+      },
+      {
+        "id": "vid-elec-3-1-3",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الأستاذ حمياني للعلوم الفيزيائية",
+        "youtubeUrl": "https://www.youtube.com/watch?v=yWbXGU9Wp_w",
+        "videoId": "yWbXGU9Wp_w",
+        "thumbnail": "https://img.youtube.com/vi/yWbXGU9Wp_w/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-elec-3-1-4",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=cPz98USIzKk",
+        "videoId": "cPz98USIzKk",
+        "thumbnail": "https://img.youtube.com/vi/cPz98USIzKk/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-elec-3-1-5",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=yWbXGU9Wp_w",
+        "videoId": "yWbXGU9Wp_w",
+        "thumbnail": "https://img.youtube.com/vi/yWbXGU9Wp_w/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "elec-3-2",
+    "title": "معاينة التوتر الكهربائي",
+    "frenchTitle": "Visualisation de la tension électrique",
+    "fieldId": "electricity",
+    "fieldTitle": "الظواهر الكهربائية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "استخدام راسم الاهتزاز المهبطي (Oscilloscope) لمعاينة التوتر المستمر والمتناوب وحساب الحساسية الشاقولية والأفقية.",
+    "objectives": [
+      "التعرف على راسم الاهتزاز المهبطي وشاشته المدرجة.",
+      "التمييز بين منحنى التوتر المستمر (خط أفقي ثابت) ومنحنى التوتر المتناوب (منحنى جيبي موجي).",
+      "تحديد دور زر المسح الزمني (Balayage) والحساسية العمودية (Sv) والأفقية (Sh)."
+    ],
+    "concepts": [
+      {
+        "title": "راسم الاهتزاز المهبطي (Oscilloscope)",
+        "content": "جهاز كاشف لقياس ومعاينة التوتر الكهربائي بدلالة الزمن. يحتوي على مدرج شاقولي (محور التوتر) ومدرج أفقي (محور الزمن)."
+      },
+      {
+        "title": "المسح الزمني (Balayage)",
+        "content": "عند تفعيل زر المسح، يظهر المنحنى الجيبي لطورين متتاليين. عند إيقاف المسح، تظهر قطعة مستقيمة شاقولية تعبر عن سعة التوتر فقط."
+      }
+    ],
+    "formulas": [],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-elec-3-2.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-معاينة-التوتر-الكهربائي-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-elec-3-2-1",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الاستاذ حمياني للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=pjomUhbsZ1M",
+        "videoId": "pjomUhbsZ1M",
+        "thumbnail": "https://img.youtube.com/vi/pjomUhbsZ1M/hqdefault.jpg",
+        "duration": "22:15"
+      },
+      {
+        "id": "vid-elec-3-2-2",
+        "teacherName": "الأستاذ دخيسي عادل للفيزياء",
+        "channelName": "الأستاذ دخيسي عادل للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=OgfYhTaNaCs",
+        "videoId": "OgfYhTaNaCs",
+        "thumbnail": "https://img.youtube.com/vi/OgfYhTaNaCs/hqdefault.jpg",
+        "duration": "19:30"
+      },
+      {
+        "id": "vid-elec-3-2-3",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=OgfYhTaNaCs",
+        "videoId": "OgfYhTaNaCs",
+        "thumbnail": "https://img.youtube.com/vi/OgfYhTaNaCs/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-elec-3-2-4",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=OgfYhTaNaCs",
+        "videoId": "OgfYhTaNaCs",
+        "thumbnail": "https://img.youtube.com/vi/OgfYhTaNaCs/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-elec-3-2-5",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=pjomUhbsZ1M",
+        "videoId": "pjomUhbsZ1M",
+        "thumbnail": "https://img.youtube.com/vi/pjomUhbsZ1M/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "elec-3-3",
+    "title": "خصائص التوتر الكهربائي المتناوب",
+    "frenchTitle": "Propriétés de la tension alternative",
+    "fieldId": "electricity",
+    "fieldTitle": "الظواهر الكهربائية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "القوانين الحسابية الأربعة الأساسية لـ BEM: التوتر الأعظمي Umax، الفعال Ueff، الدور T، والتواتر f.",
+    "objectives": [
+      "حساب التوتر الأعظمي Umax من راسم الاهتزاز المهبطي: Umax = Y × Sv.",
+      "حساب التوتر الفعال أو المنتج Ueff بواسطة الفولطمتر أو العلاقة Umax = Ueff × √2.",
+      "حساب الدور T من المنحنى: T = X × Sh، وحساب التواتر f = 1 / T بوحدة الهرتز (Hz)."
+    ],
+    "concepts": [
+      {
+        "title": "التوتر الأعظمي (Tension maximale Umax)",
+        "content": "أعلى قيمة يبلغها التوتر الكهربائي، وتحسب من قمة المنحنى."
+      },
+      {
+        "title": "التوتر الفعال (Tension efficace Ueff)",
+        "content": "القيمة التي يقيسها جهاز الفولطمتر مباشرة عند ضبطه على الوضع المتناوب (AC/V~)."
+      },
+      {
+        "title": "الدور (Période T) والتواتر (Fréquence f)",
+        "content": "الدور هو زمن نوبة موجبة ونوبة سالبة معاً (دورة كاملة). التواتر هو عدد الأدوار في الثانية الواحدة ويقاس بالهرتز (Hz)."
+      }
+    ],
+    "formulas": [
+      {
+        "id": "f-umax",
+        "name": "التوتر الأعظمي",
+        "expression": "Umax = Y × Sv",
+        "explanation": "Y: عدد التدريجات الشاقولية من المحور إلى القمة، Sv: الحساسية الشاقولية.",
+        "units": [
+          {
+            "symbol": "Umax",
+            "meaning": "التوتر الأعظمي",
+            "unit": "فولط (V)"
+          },
+          {
+            "symbol": "Y",
+            "meaning": "عدد التدريجات الشاقولية",
+            "unit": "div"
+          },
+          {
+            "symbol": "Sv",
+            "meaning": "الحساسية الشاقولية",
+            "unit": "V/div"
+          }
+        ],
+        "example": "Y = 3 div, Sv = 2 V/div => Umax = 3 × 2 = 6 V"
+      },
+      {
+        "id": "f-ueff",
+        "name": "العلاقة بين التوتر الأعظمي والفعال",
+        "expression": "Umax = Ueff × √2  (أي Ueff = Umax / 1.414)",
+        "explanation": "جهاز الفولطمتر يقيس دائماً Ueff وليس Umax.",
+        "units": [
+          {
+            "symbol": "Umax",
+            "meaning": "التوتر الأعظمي",
+            "unit": "فولط (V)"
+          },
+          {
+            "symbol": "Ueff",
+            "meaning": "التوتر الفعال",
+            "unit": "فولط (V)"
+          }
+        ],
+        "example": "إذا كان Umax = 325 V فإن Ueff = 325 / 1.414 ≈ 230 V (توتر المنازل في الجزائر)"
+      },
+      {
+        "id": "f-period",
+        "name": "الدور (T)",
+        "expression": "T = X × Sh",
+        "explanation": "X: عدد التدريجات الأفقية لدورة كاملة، Sh: الحساسية الأفقية أو سرعة المسح.",
+        "units": [
+          {
+            "symbol": "T",
+            "meaning": "الدور",
+            "unit": "ثانية (s)"
+          },
+          {
+            "symbol": "X",
+            "meaning": "عدد التدريجات الأفقية لدورة",
+            "unit": "div"
+          },
+          {
+            "symbol": "Sh",
+            "meaning": "الحساسية الأفقية",
+            "unit": "s/div أو ms/div"
+          }
+        ],
+        "example": "X = 4 div, Sh = 5 ms/div => T = 4 × 5 ms = 20 ms = 0.02 s"
+      },
+      {
+        "id": "f-freq",
+        "name": "التواتر أو التردد (f)",
+        "expression": "f = 1 / T",
+        "explanation": "مقلوب الدور، ويعبر عن عدد التكرارات في الثانية.",
+        "units": [
+          {
+            "symbol": "f",
+            "meaning": "التواتر",
+            "unit": "هرتز (Hz)"
+          },
+          {
+            "symbol": "T",
+            "meaning": "الدور (بالثواني حصراً)",
+            "unit": "ثانية (s)"
+          }
+        ],
+        "example": "إذا كان T = 0.02 s فإن f = 1 / 0.02 = 50 Hz (تواتر الشبكة الكهربائية بالجزائر)"
+      }
+    ],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-elec-3-3.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-خصائص-التوتر-الكهربائي-المتناوب-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-elec-3-3-1",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=PNRSSbaf-2k",
+        "videoId": "PNRSSbaf-2k",
+        "thumbnail": "https://img.youtube.com/vi/PNRSSbaf-2k/hqdefault.jpg",
+        "duration": "22:15"
+      },
+      {
+        "id": "vid-elec-3-3-2",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=5gJ8c8rtsMw",
+        "videoId": "5gJ8c8rtsMw",
+        "thumbnail": "https://img.youtube.com/vi/5gJ8c8rtsMw/hqdefault.jpg",
+        "duration": "20:30"
+      },
+      {
+        "id": "vid-elec-3-3-3",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس",
+        "youtubeUrl": "https://www.youtube.com/watch?v=yWbXGU9Wp_w",
+        "videoId": "yWbXGU9Wp_w",
+        "thumbnail": "https://img.youtube.com/vi/yWbXGU9Wp_w/hqdefault.jpg",
+        "duration": "25:10"
+      },
+      {
+        "id": "vid-elec-3-3-4",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الأستاذ حمياني للعلوم الفيزيائية",
+        "youtubeUrl": "https://www.youtube.com/watch?v=yWbXGU9Wp_w",
+        "videoId": "yWbXGU9Wp_w",
+        "thumbnail": "https://img.youtube.com/vi/yWbXGU9Wp_w/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-elec-3-3-5",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=PNRSSbaf-2k",
+        "videoId": "PNRSSbaf-2k",
+        "thumbnail": "https://img.youtube.com/vi/PNRSSbaf-2k/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "elec-4-1",
+    "title": "مأخذ التوتر الكهربائي",
+    "frenchTitle": "La prise de courant électrique",
+    "fieldId": "electricity",
+    "fieldTitle": "الظواهر الكهربائية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "المرابط الثلاثة لمأخذ القطاع: الطور (Phase)، الحيادي (Neutre)، والأرضي (Terre) وطرق الكشف عنها.",
+    "objectives": [
+      "التمييز بين المرابط الثلاثة لمأخذ التوتر بالألوان المعيارية والرموز.",
+      "استخدام مفك البراغي الكاشف (Tournevis testeur) للتعرف على سلك الطور.",
+      "قياس التوترات بين المرابط الثلاثة باستعمال الفولطمتر: (طور-حيادي = 230V)، (طور-أرضي = 230V)، (حيادي-أرضي = 0V)."
+    ],
+    "concepts": [
+      {
+        "title": "مرابط مأخذ التوتر المنزلي",
+        "content": "1. سلك الطور (Phase - P أو L): خطير ويحمل التوتر 230V (لونه عادة بني أو أحمر).\n2. سلك الحيادي (Neutre - N): غير خطير وتوتره 0V بالنسبة للأرض (لونه أزرق).\n3. سلك المأخذ الأرضي (Terre - T): للحماية، متصل بالأرض لونه أصفر مقلم بأخضر."
+      },
+      {
+        "title": "القياسات بالفولطمتر",
+        "content": "- بين الطور والحيادي: U = 230 V\n- بين الطور والأرضي: U = 230 V\n- بين الحيادي والأرضي: U = 0 V (أو قيمة مهملة قريبة من الصفر)"
+      }
+    ],
+    "formulas": [],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-elec-4-1.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-مأخذ-التوتر-الكهربائي-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-elec-4-1-1",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس",
+        "youtubeUrl": "https://www.youtube.com/watch?v=frg0vIGJzZA",
+        "videoId": "frg0vIGJzZA",
+        "thumbnail": "https://img.youtube.com/vi/frg0vIGJzZA/hqdefault.jpg",
+        "duration": "15:20"
+      },
+      {
+        "id": "vid-elec-4-1-2",
+        "teacherName": "الأستاذ دخيسي عادل للفيزياء",
+        "channelName": "الأستاذ دخيسي عادل للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=8WS2wMb2K_A",
+        "videoId": "8WS2wMb2K_A",
+        "thumbnail": "https://img.youtube.com/vi/8WS2wMb2K_A/hqdefault.jpg",
+        "duration": "16:40"
+      },
+      {
+        "id": "vid-elec-4-1-3",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الأستاذ حمياني للعلوم الفيزيائية",
+        "youtubeUrl": "https://www.youtube.com/watch?v=frg0vIGJzZA",
+        "videoId": "frg0vIGJzZA",
+        "thumbnail": "https://img.youtube.com/vi/frg0vIGJzZA/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-elec-4-1-4",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=8WS2wMb2K_A",
+        "videoId": "8WS2wMb2K_A",
+        "thumbnail": "https://img.youtube.com/vi/8WS2wMb2K_A/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-elec-4-1-5",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=frg0vIGJzZA",
+        "videoId": "frg0vIGJzZA",
+        "thumbnail": "https://img.youtube.com/vi/frg0vIGJzZA/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "elec-4-2",
+    "title": "حماية الدارة والأشخاص",
+    "frenchTitle": "Protection du circuit et des personnes",
+    "fieldId": "electricity",
+    "fieldTitle": "الظواهر الكهربائية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "أجهزة الحماية: المنصهرة (Fusible)، القاطع التفاضلي (Disjoncteur différentiel)، والتوصيل الأرضي.",
+    "objectives": [
+      "معرفة وظيفة المنصهرة في حماية الأجهزة من فرط شدة التيار وتركيبها على سلك الطور دائماً.",
+      "فهم دور القاطع التفاضلي والمأخذ الأرضي في تسريب التيارات الضائعة وحماية الأشخاص من الصعق.",
+      "تحليل مخططات كهربائية منزلية وتصحيح الأخطاء والنقائص الواردة فيها (سؤال كلاسيكي في BEM)."
+    ],
+    "concepts": [
+      {
+        "title": "المنصهرة (Fusible)",
+        "content": "تحتوي على سلك رقيق ينصهر وينقطع عند تجاوز شدة التيار القيمة المحددة، فتفتح الدارة وتحمي الجهاز من الاحتراق. تركّب حصراً على سلك الطور."
+      },
+      {
+        "title": "القاطع التفاضلي (Disjoncteur différentiel)",
+        "content": "يقارن بين شدة التيار الداخلة عبر الطور والخارجة عبر الحيادي، وإذا تجاوز الفرق الحساسية ΔI (بسبب تسريب تيار نحو الهيكل والأرض) يقطع التيار آلياً."
+      },
+      {
+        "title": "المأخذ الأرضي (Prise de terre)",
+        "content": "يوصل الهيكل المعدني للجهاز بالأرض، لتسريب أي تيار ناتج عن ملامسة سلك الطور العاري للهيكل مباشرة إلى الأرض بدلاً من المرور بجسم الإنسان."
+      }
+    ],
+    "formulas": [],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-elec-4-2.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-حماية-الدارة-والأشخاص-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-elec-4-2-1",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ZOJrHAtTjtA",
+        "videoId": "ZOJrHAtTjtA",
+        "thumbnail": "https://img.youtube.com/vi/ZOJrHAtTjtA/hqdefault.jpg",
+        "duration": "25:40"
+      },
+      {
+        "id": "vid-elec-4-2-2",
+        "teacherName": "الأستاذ دخيسي عادل للفيزياء",
+        "channelName": "الأستاذ دخيسي عادل للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=EhWnaTbKMbE",
+        "videoId": "EhWnaTbKMbE",
+        "thumbnail": "https://img.youtube.com/vi/EhWnaTbKMbE/hqdefault.jpg",
+        "duration": "18:10"
+      },
+      {
+        "id": "vid-elec-4-2-3",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=EhWnaTbKMbE",
+        "videoId": "EhWnaTbKMbE",
+        "thumbnail": "https://img.youtube.com/vi/EhWnaTbKMbE/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-elec-4-2-4",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الأستاذ حمياني للعلوم الفيزيائية",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ZOJrHAtTjtA",
+        "videoId": "ZOJrHAtTjtA",
+        "thumbnail": "https://img.youtube.com/vi/ZOJrHAtTjtA/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-elec-4-2-5",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=EhWnaTbKMbE",
+        "videoId": "EhWnaTbKMbE",
+        "thumbnail": "https://img.youtube.com/vi/EhWnaTbKMbE/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "elec-4-3",
+    "title": "قواعد الأمن الكهربائي",
+    "frenchTitle": "Règles de sécurité électrique",
+    "fieldId": "electricity",
+    "fieldTitle": "الظواهر الكهربائية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "أخطار التكهرب والحمولة الزائدة، والاستقصار، والإرشادات الوقائية الإلزامية في المنازل.",
+    "objectives": [
+      "تحديد أسباب الحوادث الكهربائية: لمس سلك طور عارٍ، غياب الأرضي، الحمل الزائد، استقصار الدارة.",
+      "اقتراح حلول تقنية وقائية مناسبة لكل وضعية مشكلة في شهادة BEM.",
+      "صياغة نصائح الأمان الكهربائي بلغة علمية سليمة."
+    ],
+    "concepts": [
+      {
+        "title": "أسباب انقطاع التيار الكهربائي المفاجئ",
+        "content": "1. حمولة زائدة (Surcharge): تشغيل أجهزة متعددة يفوق مجموع استطاعتها الاستطاعة المضبوط عليها القاطع.\n2. استقصار الدارة (Court-circuit): تلامس مباشر بين سلك الطور وسلك الحيادي.\n3. تسرب كهربائي (Fuite de courant): ملامسة الطور لهيكل معدني غير مؤرض."
+      }
+    ],
+    "formulas": [
+      {
+        "id": "f-ptotal",
+        "name": "الاستطاعة الكهربائية والشدة",
+        "expression": "P = U × I  (أي I = P / U)",
+        "explanation": "لحساب شدة التيار المستهلكة ومقارنتها مع دلالة القاطع أو المنصهرة.",
+        "units": [
+          {
+            "symbol": "P",
+            "meaning": "الاستطاعة الكهربائية",
+            "unit": "واط (W)"
+          },
+          {
+            "symbol": "U",
+            "meaning": "التوتر الكهربائي (230V)",
+            "unit": "فولط (V)"
+          },
+          {
+            "symbol": "I",
+            "meaning": "شدة التيار الكهربائي",
+            "unit": "أمبير (A)"
+          }
+        ]
+      }
+    ],
+    "download": {
+      "pdfUrl": "",
+      "wordUrl": "",
+      "fileName": "",
+      "fileType": "none",
+      "fileSize": "",
+      "isAvailable": false
+    },
+    "videos": [
+      {
+        "id": "vid-elec-4-3-1",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vDowbJe1kP0",
+        "videoId": "vDowbJe1kP0",
+        "thumbnail": "https://img.youtube.com/vi/vDowbJe1kP0/hqdefault.jpg",
+        "duration": "27:14"
+      },
+      {
+        "id": "vid-elec-4-3-2",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الاستاذ حمياني للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=8v-FyFf6gEA",
+        "videoId": "8v-FyFf6gEA",
+        "thumbnail": "https://img.youtube.com/vi/8v-FyFf6gEA/hqdefault.jpg",
+        "duration": "21:30"
+      },
+      {
+        "id": "vid-elec-4-3-3",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=8v-FyFf6gEA",
+        "videoId": "8v-FyFf6gEA",
+        "thumbnail": "https://img.youtube.com/vi/8v-FyFf6gEA/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-elec-4-3-4",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vDowbJe1kP0",
+        "videoId": "vDowbJe1kP0",
+        "thumbnail": "https://img.youtube.com/vi/vDowbJe1kP0/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-elec-4-3-5",
+        "teacherName": "أ. عقبة للفيزياء",
+        "channelName": "فيزياء BEM مع الأستاذ عقبة",
+        "youtubeUrl": "https://www.youtube.com/watch?v=8v-FyFf6gEA",
+        "videoId": "8v-FyFf6gEA",
+        "thumbnail": "https://img.youtube.com/vi/8v-FyFf6gEA/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "mat-1-1",
+    "title": "الشاردة والمحلول الشاردي (1)",
+    "frenchTitle": "Définition des ions et solutions",
+    "fieldId": "matter",
+    "fieldTitle": "المادة وتحولاتها",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "مفهوم الشاردة البسيطة والمركبة، الموجبة (كاتيون) والسالبة (أنيون)، والتمييز بين المحلول الشاردي والجزيئي.",
+    "objectives": [
+      "تعريف الشاردة كذرة أو مجموعة ذرات فقدت أو اكتسبت إلكتروناً أو أكثر.",
+      "التمييز بين الشاردة الموجبة (كاتيون Cation) والشاردة السالبة (أنيون Anion).",
+      "معرفة الصيغ الشاردية للشوارد الشائعة: Na+, Cl-, Cu2+, Fe2+, Fe3+, Al3+, Zn2+, SO4^2-, CO3^2-."
+    ],
+    "concepts": [
+      {
+        "title": "الشاردة (Ion)",
+        "content": "- الشاردة الموجبة (Cation): ذرة فقدت إلكتروناً أو أكثر (مثل Cu2+ فقدت إلكترونين).\n- الشاردة السالبة (Anion): ذرة اكتسبت إلكتروناً أو أكثر (مثل Cl- اكتسبت إلكتروناً واحداً).\n- شاردة بسيطة: ناتجة عن ذرة واحدة (مثل Zn2+).\n- شاردة مركبة: ناتجة عن مجموعة ذرات مرتبطة (مثل SO4^2- كبريتات، CO3^2- كربونات)."
+      },
+      {
+        "title": "المحلول المائي الشاردي",
+        "content": "محلول مذابه مركب شاردي، يحتوي على شوارد حرة الحركة تسمح بنقل التيار الكهربائي. بينما المحلول الجزيئي (كالماء السكري) لا يحتوي على شوارد ولا ينقل التيار."
+      }
+    ],
+    "formulas": [],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-mat-1-1.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-الشاردة-والمحلول-الشاردي-(1)-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-mat-1-1-1",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BQBRYnREqbU",
+        "videoId": "BQBRYnREqbU",
+        "thumbnail": "https://img.youtube.com/vi/BQBRYnREqbU/hqdefault.jpg",
+        "duration": "19:10"
+      },
+      {
+        "id": "vid-mat-1-1-2",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الاستاذ حمياني للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BrawqmNGVfU",
+        "videoId": "BrawqmNGVfU",
+        "thumbnail": "https://img.youtube.com/vi/BrawqmNGVfU/hqdefault.jpg",
+        "duration": "24:45"
+      },
+      {
+        "id": "vid-mat-1-1-3",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BrawqmNGVfU",
+        "videoId": "BrawqmNGVfU",
+        "thumbnail": "https://img.youtube.com/vi/BrawqmNGVfU/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-mat-1-1-4",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BQBRYnREqbU",
+        "videoId": "BQBRYnREqbU",
+        "thumbnail": "https://img.youtube.com/vi/BQBRYnREqbU/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-mat-1-1-5",
+        "teacherName": "أ. عقبة للفيزياء",
+        "channelName": "فيزياء BEM مع الأستاذ عقبة",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BrawqmNGVfU",
+        "videoId": "BrawqmNGVfU",
+        "thumbnail": "https://img.youtube.com/vi/BrawqmNGVfU/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "mat-1-2",
+    "title": "الشاردة والمحلول الشاردي (2)",
+    "frenchTitle": "Formule ionique et neutralité",
+    "fieldId": "matter",
+    "fieldTitle": "المادة وتحولاتها",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "كتابة الصيغ الشاردية والإحصائية، ومبدأ التعادل الكهربائي للمحلول الشاردي.",
+    "objectives": [
+      "تطبيق مبدأ التعادل الكهربائي: مجموع الشحنات الموجبة يساوي مجموع الشحنات السالبة في المحلول.",
+      "التحويل بين الصيغة الشاردية والصيغة الجزيئية/الإحصائية للمحاليل (مثل محلول كلور الزنك ومحلول كبريتات النحاس).",
+      "موازنة الصيغ الشاردية بوضع معاملات الموازنة داخل القوسين."
+    ],
+    "concepts": [
+      {
+        "title": "مبدأ التعادل الكهربائي للمحلول الشاردي",
+        "content": "المحلول الشاردي متعادل كهربائياً دوماً، لذلك يجب موازنة الشحنات:\n- محلول كلور الصوديوم: (Na+ + Cl-)\n- محلول كلور الزنك: (Zn2+ + 2Cl-)\n- محلول كلور الألمنيوم: (Al3+ + 3Cl-)\n- محلول كبريتات النحاس: (Cu2+ + SO4^2-)"
+      }
+    ],
+    "formulas": [],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-mat-1-2.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-الشاردة-والمحلول-الشاردي-(2)-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-mat-1-2-1",
+        "teacherName": "أ. عقبة - نوافذ التعليمية",
+        "channelName": "نوافذ التعليمية - NAWAFID",
+        "youtubeUrl": "https://www.youtube.com/watch?v=kroRGJ1gfJU",
+        "videoId": "kroRGJ1gfJU",
+        "thumbnail": "https://img.youtube.com/vi/kroRGJ1gfJU/hqdefault.jpg",
+        "duration": "18:15"
+      },
+      {
+        "id": "vid-mat-1-2-2",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الاستاذ حمياني للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BrawqmNGVfU",
+        "videoId": "BrawqmNGVfU",
+        "thumbnail": "https://img.youtube.com/vi/BrawqmNGVfU/hqdefault.jpg",
+        "duration": "20:10"
+      },
+      {
+        "id": "vid-mat-1-2-3",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BrawqmNGVfU",
+        "videoId": "BrawqmNGVfU",
+        "thumbnail": "https://img.youtube.com/vi/BrawqmNGVfU/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-mat-1-2-4",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BrawqmNGVfU",
+        "videoId": "BrawqmNGVfU",
+        "thumbnail": "https://img.youtube.com/vi/BrawqmNGVfU/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-mat-1-2-5",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=kroRGJ1gfJU",
+        "videoId": "kroRGJ1gfJU",
+        "thumbnail": "https://img.youtube.com/vi/kroRGJ1gfJU/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "mat-2-1",
+    "title": "النقل الكهربائي في المحاليل",
+    "frenchTitle": "Conduction dans les solutions",
+    "fieldId": "matter",
+    "fieldTitle": "المادة وتحولاتها",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "آلية مرور التيار في وعاء التحليل بهجرة الشوارد نحو المسريين (المصعد والمهبط).",
+    "objectives": [
+      "تحديد المصعد (Anode: متصل بالقطب الموجب للمولد) والمهبط (Cathode: متصل بالقطب السالب).",
+      "وصف حركة الشوارد: الشوارد الموجبة تتجه نحو المهبط، والشوارد السالبة تتجه نحو المصعد.",
+      "شروط التحليل الكهربائي البسيط (مسريان من الغرافيت لا يتآكلان، ولا يتدخل المذيب الماء كيميائياً)."
+    ],
+    "concepts": [
+      {
+        "title": "هجرة الشوارد (Migration des ions)",
+        "content": "في المحلول الشاردي، التيار الكهربائي ناتج عن انتقال مزدوج ومتعاكس للشوارد:\n- الكاتيونات الموجبة تنجذب نحو المهبط السالب.\n- الأنيونات السالبة تنجذب نحو المصعد الموجب."
+      }
+    ],
+    "formulas": [],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-mat-2-1.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-النقل-الكهربائي-في-المحاليل-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-mat-2-1-1",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الاستاذ حمياني للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Iv8BjGnKosA",
+        "videoId": "Iv8BjGnKosA",
+        "thumbnail": "https://img.youtube.com/vi/Iv8BjGnKosA/hqdefault.jpg",
+        "duration": "21:05"
+      },
+      {
+        "id": "vid-mat-2-1-2",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BQBRYnREqbU",
+        "videoId": "BQBRYnREqbU",
+        "thumbnail": "https://img.youtube.com/vi/BQBRYnREqbU/hqdefault.jpg",
+        "duration": "22:40"
+      },
+      {
+        "id": "vid-mat-2-1-3",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BQBRYnREqbU",
+        "videoId": "BQBRYnREqbU",
+        "thumbnail": "https://img.youtube.com/vi/BQBRYnREqbU/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-mat-2-1-4",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Iv8BjGnKosA",
+        "videoId": "Iv8BjGnKosA",
+        "thumbnail": "https://img.youtube.com/vi/Iv8BjGnKosA/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-mat-2-1-5",
+        "teacherName": "أ. عقبة للفيزياء",
+        "channelName": "فيزياء BEM مع الأستاذ عقبة",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BQBRYnREqbU",
+        "videoId": "BQBRYnREqbU",
+        "thumbnail": "https://img.youtube.com/vi/BQBRYnREqbU/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "mat-2-2",
+    "title": "التحليل الكهربائي البسيط لمحلول كلور الزنك",
+    "frenchTitle": "Électrolyse du chlorure de zinc",
+    "fieldId": "matter",
+    "fieldTitle": "المادة وتحولاتها",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "المعادلات النصفية عند المصعد والمهبط، الملاحظات العيانية، والمعادلة الإجمالية للتحليل.",
+    "objectives": [
+      "وصف الظواهر الملاحظة: انطلاق غاز الكلور الأخضر المصفر عند المصعد، وترسب شعيرات معدن الزنك عند المهبط.",
+      "كتابة المعادلة النصفية عند المصعد: 2Cl-(aq) -> Cl2(g) + 2e-.",
+      "كتابة المعادلة النصفية عند المهبط: Zn2+(aq) + 2e- -> Zn(s).",
+      "استنتاج المعادلة الإجمالية للتحليل الكهربائي بالصيغة الشاردية والإحصائية."
+    ],
+    "concepts": [
+      {
+        "title": "عند المصعد (المسرى الموجب)",
+        "content": "تتجه شوارد الكلور السالبة Cl- نحو المصعد، وتفقد كل شاردة إلكتروناً وتتحول إلى ذرة كلور، تتحد كل ذرتين لتشكيل جزيء غاز الكلور Cl2(g) الذي نكشف عنه بزوال لون كاشف النيلة.\n2Cl-(aq) -> Cl2(g) + 2e-"
+      },
+      {
+        "title": "عند المهبط (المسرى السالب)",
+        "content": "تتجه شوارد الزنك الموجبة Zn2+ نحو المهبط، وتكتسب كل شاردة إلكترونين وتتحول إلى ذرة زنك تترسب على شكل شعيرات معدنية رمادية.\nZn2+(aq) + 2e- -> Zn(s)"
+      },
+      {
+        "title": "المعادلة الإجمالية",
+        "content": "بالصيغة الشاردية: (Zn2+(aq) + 2Cl-(aq)) -> Zn(s) + Cl2(g)\nبالصيغة الإحصائية: ZnCl2(aq) -> Zn(s) + Cl2(g)"
+      }
+    ],
+    "formulas": [],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-mat-2-2.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-التحليل-الكهربائي-البسيط-لمحلول-كلور-الزنك-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-mat-2-2-1",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس",
+        "youtubeUrl": "https://www.youtube.com/watch?v=3Zo6WZnPX4o",
+        "videoId": "3Zo6WZnPX4o",
+        "thumbnail": "https://img.youtube.com/vi/3Zo6WZnPX4o/hqdefault.jpg",
+        "duration": "26:30"
+      },
+      {
+        "id": "vid-mat-2-2-2",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الاستاذ حمياني للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=9fl9LWX589w",
+        "videoId": "9fl9LWX589w",
+        "thumbnail": "https://img.youtube.com/vi/9fl9LWX589w/hqdefault.jpg",
+        "duration": "23:15"
+      },
+      {
+        "id": "vid-mat-2-2-3",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=9fl9LWX589w",
+        "videoId": "9fl9LWX589w",
+        "thumbnail": "https://img.youtube.com/vi/9fl9LWX589w/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-mat-2-2-4",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=3Zo6WZnPX4o",
+        "videoId": "3Zo6WZnPX4o",
+        "thumbnail": "https://img.youtube.com/vi/3Zo6WZnPX4o/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-mat-2-2-5",
+        "teacherName": "أ. عقبة للفيزياء",
+        "channelName": "فيزياء BEM مع الأستاذ عقبة",
+        "youtubeUrl": "https://www.youtube.com/watch?v=9fl9LWX589w",
+        "videoId": "9fl9LWX589w",
+        "thumbnail": "https://img.youtube.com/vi/9fl9LWX589w/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "mat-3-1",
+    "title": "التحولات الكيميائية في المحاليل الشاردية (1) - حمض مع معدن",
+    "frenchTitle": "Acide chlorhydrique et métal",
+    "fieldId": "matter",
+    "fieldTitle": "المادة وتحولاتها",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "تفاعل حمض كلور الماء مع المعادن (الحديد Fe، الزنك Zn، الألمنيوم Al)، انطلاق غاز H2 والكشف عنه.",
+    "objectives": [
+      "دراسة تفاعل حمض كلور الماء HCl مع الحديد Fe أو الزنك Zn.",
+      "الكشف عن الغاز المنطلق (غاز الهيدروجين H2 بحدوث فرقعة خفيفة عند تقريب عود ثقاب مشتعل).",
+      "كتابة المعادلات الكيميائية بالصيغة الشاردية، الإحصائية، والمختصرة (بالأفراد المتفاعلة فقط)."
+    ],
+    "concepts": [
+      {
+        "title": "تفاعل حمض كلور الماء مع الحديد Fe",
+        "content": "ينتج غاز الهيدروجين H2 ومحلول كلور الحديد الثنائي الأخضر الفاتح (Fe2+ + 2Cl-).\nالمعادلة الشاردية:\nFe(s) + 2(H+ + Cl-)(aq) -> (Fe2+ + 2Cl-)(aq) + H2(g)\nالمعادلة الإحصائية:\nFe(s) + 2HCl(aq) -> FeCl2(aq) + H2(g)\nالمعادلة المختصرة:\nFe(s) + 2H+(aq) -> Fe2+(aq) + H2(g)"
+      },
+      {
+        "title": "المعادن التي لا تتفاعل مع حمض كلور الماء",
+        "content": "النحاس Cu، الفضة Ag، والذهب Au لا تتفاعل مع حمض كلور الماء المخفف."
+      }
+    ],
+    "formulas": [],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-mat-3-1.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-التحولات-الكيميائية-في-المحاليل-الشاردية-(1)---حمض-مع-معدن-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-mat-3-1-1",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس",
+        "youtubeUrl": "https://www.youtube.com/watch?v=isVYVkKXzIA",
+        "videoId": "isVYVkKXzIA",
+        "thumbnail": "https://img.youtube.com/vi/isVYVkKXzIA/hqdefault.jpg",
+        "duration": "24:18"
+      },
+      {
+        "id": "vid-mat-3-1-2",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=YVUqgbcssJ8",
+        "videoId": "YVUqgbcssJ8",
+        "thumbnail": "https://img.youtube.com/vi/YVUqgbcssJ8/hqdefault.jpg",
+        "duration": "24:18"
+      },
+      {
+        "id": "vid-mat-3-1-3",
+        "teacherName": "الأستاذ بوكرون كريم للعلوم الفيزيائية",
+        "channelName": "الأستاذ بوكرون كريم للعلوم الفيزيائية",
+        "youtubeUrl": "https://www.youtube.com/watch?v=OSt5QkfEHXU",
+        "videoId": "OSt5QkfEHXU",
+        "thumbnail": "https://img.youtube.com/vi/OSt5QkfEHXU/hqdefault.jpg",
+        "duration": "15:40"
+      },
+      {
+        "id": "vid-mat-3-1-4",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الأستاذ حمياني للعلوم الفيزيائية",
+        "youtubeUrl": "https://www.youtube.com/watch?v=OSt5QkfEHXU",
+        "videoId": "OSt5QkfEHXU",
+        "thumbnail": "https://img.youtube.com/vi/OSt5QkfEHXU/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-mat-3-1-5",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=isVYVkKXzIA",
+        "videoId": "isVYVkKXzIA",
+        "thumbnail": "https://img.youtube.com/vi/isVYVkKXzIA/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "mat-3-2",
+    "title": "التحولات الكيميائية في المحاليل الشاردية (2) - ملح مع معدن",
+    "frenchTitle": "Solution saline et métal",
+    "fieldId": "matter",
+    "fieldTitle": "المادة وتحولاتها",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "تفاعل محلول كبريتات النحاس (Cu2+ + SO4^2-) مع مسمار حديدي Fe، وترسب طبقة نحاسية حمراء.",
+    "objectives": [
+      "ملاحظة اختفاء اللون الأزرق لمحلول كبريتات النحاس تدريجياً وظهور اللون الأخضر الفاتح.",
+      "ملاحظة ترسب طبقة حمراء من معدن النحاس Cu على الجزء المغمور من المسمار الحديدي.",
+      "كتابة معادلة التفاعل: Fe(s) + (Cu2+ + SO4^2-) -> (Fe2+ + SO4^2-) + Cu(s)."
+    ],
+    "concepts": [
+      {
+        "title": "تفسير التحول المجهري",
+        "content": "ذرات الحديد تفقد إلكترونين وتتحول إلى شوارد Fe2+ (ذات اللون الأخضر الفاتح)، بينما شوارد النحاس Cu2+ الزرقاء تكتسب هذين الإلكترونين وتتحول إلى ذرات نحاس صلبة Cu تترسب بلونها الأحمر الآجوري.\nالمعادلة المختصرة:\nFe(s) + Cu2+(aq) -> Fe2+(aq) + Cu(s)"
+      }
+    ],
+    "formulas": [],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-mat-3-2.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-التحولات-الكيميائية-في-المحاليل-الشاردية-(2)---ملح-مع-معدن-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-mat-3-2-1",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس",
+        "youtubeUrl": "https://www.youtube.com/watch?v=obd7bkNojGo",
+        "videoId": "obd7bkNojGo",
+        "thumbnail": "https://img.youtube.com/vi/obd7bkNojGo/hqdefault.jpg",
+        "duration": "22:15"
+      },
+      {
+        "id": "vid-mat-3-2-2",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الاستاذ حمياني للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=dST_xcXT2oo",
+        "videoId": "dST_xcXT2oo",
+        "thumbnail": "https://img.youtube.com/vi/dST_xcXT2oo/hqdefault.jpg",
+        "duration": "20:30"
+      },
+      {
+        "id": "vid-mat-3-2-3",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=dST_xcXT2oo",
+        "videoId": "dST_xcXT2oo",
+        "thumbnail": "https://img.youtube.com/vi/dST_xcXT2oo/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-mat-3-2-4",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=obd7bkNojGo",
+        "videoId": "obd7bkNojGo",
+        "thumbnail": "https://img.youtube.com/vi/obd7bkNojGo/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-mat-3-2-5",
+        "teacherName": "أ. عقبة للفيزياء",
+        "channelName": "فيزياء BEM مع الأستاذ عقبة",
+        "youtubeUrl": "https://www.youtube.com/watch?v=dST_xcXT2oo",
+        "videoId": "dST_xcXT2oo",
+        "thumbnail": "https://img.youtube.com/vi/dST_xcXT2oo/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "mat-3-3",
+    "title": "التحولات الكيميائية في المحاليل الشاردية (3) - حمض مع كربونات الكالسيوم",
+    "frenchTitle": "Acide chlorhydrique et calcaire",
+    "fieldId": "matter",
+    "fieldTitle": "المادة وتحولاتها",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "تفاعل حمض كلور الماء مع كربونات الكالسيوم (الطباشير أو الكلس CaCO3) وانطلاق غاز CO2 الذي يعكر رائق الكلس.",
+    "objectives": [
+      "ملاحظة فوران وتآكل قطعة الطباشير أو الكلس وانطلاق غاز ثنائي أكسيد الكربون CO2.",
+      "الكشف عن غاز CO2 بتعكير ماء الجير (رائق الكلس).",
+      "كتابة معادلة التفاعل: CaCO3(s) + 2(H+ + Cl-) -> (Ca2+ + 2Cl-) + CO2(g) + H2O(l)."
+    ],
+    "concepts": [
+      {
+        "title": "النواتج الثلاثة للتفاعل",
+        "content": "1. غاز ثنائي أكسيد الكربون CO2(g) المنطلق.\n2. الماء السائل H2O(l).\n3. محلول كلور الكالسيوم الشاردي (Ca2+ + 2Cl-)(aq)."
+      }
+    ],
+    "formulas": [],
+    "download": {
+      "pdfUrl": "",
+      "wordUrl": "",
+      "fileName": "",
+      "fileType": "none",
+      "fileSize": "",
+      "isAvailable": false
+    },
+    "videos": [
+      {
+        "id": "vid-mat-3-3-1",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس",
+        "youtubeUrl": "https://www.youtube.com/watch?v=U9k16Oa4egM",
+        "videoId": "U9k16Oa4egM",
+        "thumbnail": "https://img.youtube.com/vi/U9k16Oa4egM/hqdefault.jpg",
+        "duration": "23:45"
+      },
+      {
+        "id": "vid-mat-3-3-2",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الاستاذ حمياني للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ev0jgR2HP-M",
+        "videoId": "ev0jgR2HP-M",
+        "thumbnail": "https://img.youtube.com/vi/ev0jgR2HP-M/hqdefault.jpg",
+        "duration": "18:50"
+      },
+      {
+        "id": "vid-mat-3-3-3",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ev0jgR2HP-M",
+        "videoId": "ev0jgR2HP-M",
+        "thumbnail": "https://img.youtube.com/vi/ev0jgR2HP-M/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-mat-3-3-4",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=U9k16Oa4egM",
+        "videoId": "U9k16Oa4egM",
+        "thumbnail": "https://img.youtube.com/vi/U9k16Oa4egM/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-mat-3-3-5",
+        "teacherName": "أ. عقبة للفيزياء",
+        "channelName": "فيزياء BEM مع الأستاذ عقبة",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ev0jgR2HP-M",
+        "videoId": "ev0jgR2HP-M",
+        "thumbnail": "https://img.youtube.com/vi/ev0jgR2HP-M/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "mech-1-1",
+    "title": "مفهوم الجملة الميكانيكية",
+    "frenchTitle": "La notion de système mécanique",
+    "fieldId": "mechanics",
+    "fieldTitle": "الظواهر الميكانيكية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "تعريف الجملة الميكانيكية، والأفعال الميكانيكية التلامسية والبعدية ومخطط أجسام متأثرة.",
+    "objectives": [
+      "تحديد الجملة الميكانيكية المدروسة (جسم أو جزء من جسم أو مجموعة أجسام).",
+      "تصنيف الأفعال الميكانيكية إلى أفعال تلامسية (موضعية أو موزعة) وأفعال بعدية (موزعة).",
+      "رسم مخطط أجسام متأثرة بأسهم متصلة ومتقطعة."
+    ],
+    "concepts": [
+      {
+        "title": "الجملة الميكانيكية (Système mécanique)",
+        "content": "جسم صلب أو جزء منه أو مجموعة أجسام نحددها قصد دراستها حركياً أو سكونياً، وكل ما عداها يسمى وسطاً خارجياً."
+      },
+      {
+        "title": "أنواع الأفعال الميكانيكية",
+        "content": "- فعل ميكانيكي تلامسي (Contact): مثل شد خيط، دفع عربة (يمثل بسهم متصل في مخطط الأجسام المتأثرة).\n- فعل ميكانيكي بعدي (À distance): مثل فعل المغناطيس، فعل الأرض (الثقل) (يمثل بسهم متقطع)."
+      }
+    ],
+    "formulas": [],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-mech-1-1.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-مفهوم-الجملة-الميكانيكية-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-mech-1-1-1",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الاستاذ حمياني للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=fUd_j5mqALQ",
+        "videoId": "fUd_j5mqALQ",
+        "thumbnail": "https://img.youtube.com/vi/fUd_j5mqALQ/hqdefault.jpg",
+        "duration": "17:15"
+      },
+      {
+        "id": "vid-mech-1-1-2",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ECUA1uh7oHs",
+        "videoId": "ECUA1uh7oHs",
+        "thumbnail": "https://img.youtube.com/vi/ECUA1uh7oHs/hqdefault.jpg",
+        "duration": "21:30"
+      },
+      {
+        "id": "vid-mech-1-1-3",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ECUA1uh7oHs",
+        "videoId": "ECUA1uh7oHs",
+        "thumbnail": "https://img.youtube.com/vi/ECUA1uh7oHs/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-mech-1-1-4",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=fUd_j5mqALQ",
+        "videoId": "fUd_j5mqALQ",
+        "thumbnail": "https://img.youtube.com/vi/fUd_j5mqALQ/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-mech-1-1-5",
+        "teacherName": "أ. عقبة للفيزياء",
+        "channelName": "فيزياء BEM مع الأستاذ عقبة",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ECUA1uh7oHs",
+        "videoId": "ECUA1uh7oHs",
+        "thumbnail": "https://img.youtube.com/vi/ECUA1uh7oHs/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "mech-1-2",
+    "title": "القوة ونمذجتها بشعاع",
+    "frenchTitle": "La force et sa modélisation",
+    "fieldId": "mechanics",
+    "fieldTitle": "الظواهر الميكانيكية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "خصائص شعاع القوة الأربعة: نقطة التأثير، المنحى، الاتجاه، والشدة المقاسة بالربيعة (النيوتن متر).",
+    "objectives": [
+      "نمذجة الفعل الميكانيكي بشعاع قوة F_(A/B).",
+      "تحديد مميزات القوة الأربعة بدقة واختيار سلم رسم مناسب.",
+      "قياس شدة القوة بواسطة جهاز الربيعة بوحدة النيوتن (N)."
+    ],
+    "concepts": [
+      {
+        "title": "مميزات شعاع القوة الأربعة",
+        "content": "1. نقطة التأثير: نقطة تلامس الجملتين (أو مركز ثقل الجملة في الأفعال البعدية كالجاذبية).\n2. المنحى (الحامل): المستقيم الذي يحدث وفقاً له الفعل.\n3. الاتجاه: نحو الأعلى، الأسفل، اليمين أو اليسار.\n4. الشدة (القيمة): تقاس بالربيعة وتحدد طول الشعاع حسب سلم الرسم."
+      }
+    ],
+    "formulas": [],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-mech-1-2.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-القوة-ونمذجتها-بشعاع-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-mech-1-2-1",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الاستاذ حمياني للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=8SdB5OJb9RA",
+        "videoId": "8SdB5OJb9RA",
+        "thumbnail": "https://img.youtube.com/vi/8SdB5OJb9RA/hqdefault.jpg",
+        "duration": "19:40"
+      },
+      {
+        "id": "vid-mech-1-2-2",
+        "teacherName": "أ. عقبة - نوافذ التعليمية",
+        "channelName": "نوافذ التعليمية - NAWAFID",
+        "youtubeUrl": "https://www.youtube.com/watch?v=cOrk7OREvl0",
+        "videoId": "cOrk7OREvl0",
+        "thumbnail": "https://img.youtube.com/vi/cOrk7OREvl0/hqdefault.jpg",
+        "duration": "18:10"
+      },
+      {
+        "id": "vid-mech-1-2-3",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=cOrk7OREvl0",
+        "videoId": "cOrk7OREvl0",
+        "thumbnail": "https://img.youtube.com/vi/cOrk7OREvl0/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-mech-1-2-4",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=cOrk7OREvl0",
+        "videoId": "cOrk7OREvl0",
+        "thumbnail": "https://img.youtube.com/vi/cOrk7OREvl0/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-mech-1-2-5",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=8SdB5OJb9RA",
+        "videoId": "8SdB5OJb9RA",
+        "thumbnail": "https://img.youtube.com/vi/8SdB5OJb9RA/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "mech-1-3",
+    "title": "الفعلان المتبادلان للقوى",
+    "frenchTitle": "Principe des actions réciproques",
+    "fieldId": "mechanics",
+    "fieldTitle": "الظواهر الميكانيكية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "القانون الثالث لنيوتن: F_(A/B) = - F_(B/A)، تماثل القوتين في الشدة والحامل وتعاكسهما في الاتجاه.",
+    "objectives": [
+      "صياغة مبدأ الفعلين المتبادلين رياضياً وشعاعياً.",
+      "فهم أن الفعل ورد الفعل يحدثان آنياً وبشكل متبادل بين جملتين مختلفتين.",
+      "تمثيل قوتي التأثير المتبادل بشعاعين متساويين طولاً ومتعاكسين اتجاهاً."
+    ],
+    "concepts": [
+      {
+        "title": "مبدأ الفعلين المتبادلين",
+        "content": "إذا أثرت جملة ميكانيكية A على جملة B بقوة F_(A/B)، فإن الجملة B تؤثر آنياً على الجملة A بقوة F_(B/A) لهما نفس الحامل ونفس الشدة وتتعاكسان في الاتجاه:\nشعاع F_(A/B) = - شعاع F_(B/A)"
+      }
+    ],
+    "formulas": [
+      {
+        "id": "f-action-reaction",
+        "name": "مبدأ الفعلين المتبادلين",
+        "expression": "F_(A/B) = F_(B/A)  و  F_vec(A/B) + F_vec(B/A) = 0_vec",
+        "explanation": "القوتان تؤثران في جملتين مختلفتين لذلك لا تلغي إحداهما الأخرى.",
+        "units": [
+          {
+            "symbol": "F",
+            "meaning": "شدة القوة",
+            "unit": "نيوتن (N)"
+          }
+        ]
+      }
+    ],
+    "download": {
+      "pdfUrl": "",
+      "wordUrl": "https://example.com/downloads/bem-physique-mech-1-3.docx",
+      "fileName": "درس-الفعلان-المتبادلان-للقوى-4متوسط.docx",
+      "fileType": "word",
+      "fileSize": "1.1 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-mech-1-3-1",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس",
+        "youtubeUrl": "https://www.youtube.com/watch?v=scv07SaUvY8",
+        "videoId": "scv07SaUvY8",
+        "thumbnail": "https://img.youtube.com/vi/scv07SaUvY8/hqdefault.jpg",
+        "duration": "21:04"
+      },
+      {
+        "id": "vid-mech-1-3-2",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الاستاذ حمياني للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=aX8J8DgvzBk",
+        "videoId": "aX8J8DgvzBk",
+        "thumbnail": "https://img.youtube.com/vi/aX8J8DgvzBk/hqdefault.jpg",
+        "duration": "16:50"
+      },
+      {
+        "id": "vid-mech-1-3-3",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=aX8J8DgvzBk",
+        "videoId": "aX8J8DgvzBk",
+        "thumbnail": "https://img.youtube.com/vi/aX8J8DgvzBk/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-mech-1-3-4",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=scv07SaUvY8",
+        "videoId": "scv07SaUvY8",
+        "thumbnail": "https://img.youtube.com/vi/scv07SaUvY8/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-mech-1-3-5",
+        "teacherName": "أ. عقبة للفيزياء",
+        "channelName": "فيزياء BEM مع الأستاذ عقبة",
+        "youtubeUrl": "https://www.youtube.com/watch?v=aX8J8DgvzBk",
+        "videoId": "aX8J8DgvzBk",
+        "thumbnail": "https://img.youtube.com/vi/aX8J8DgvzBk/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "mech-2-1",
+    "title": "خصائص الثقل",
+    "frenchTitle": "Caractéristiques du poids",
+    "fieldId": "mechanics",
+    "fieldTitle": "الظواهر الميكانيكية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "تعريف الثقل كقوة جذب الأرض للجسم، ومميزاته: نقطة التأثير (مركز ثقل الجسم G)، الحامل الشاقولي، الاتجاه نحو مركز الأرض.",
+    "objectives": [
+      "تعريف الثقل P كقوة جذب الأرض للأجسام.",
+      "التمييز الصارم بين مفهوم الكتلة m ومفهوم الثقل P.",
+      "تحديد مركز ثقل الجسم الهندسي G كبداية لشعاع الثقل دائماً."
+    ],
+    "concepts": [
+      {
+        "title": "مميزات شعاع الثقل (Poids P)",
+        "content": "1. نقطة التأثير: مركز ثقل الجسم (G).\n2. المنحى: الشاقول (المستقيم الرأسي المار من G).\n3. الاتجاه: دوماً نحو الأسفل (مركز الأرض).\n4. الشدة: تقاس بالربيعة بوحدة النيوتن (N)."
+      },
+      {
+        "title": "الفرق الجوهري بين الكتلة والثقل",
+        "content": "- الكتلة (Masse m): مقدار المادة في الجسم، تقاس بالميزان، وحدتها الكيلوغرام (kg)، وهي مقدار ثابت لا يتغير بتغير المكان أو الارتفاع.\n- الثقل (Poids P): قوة جذب الأرض، يقاس بالربيعة، وحدته النيوتن (N)، وهو مقدار متغير يتغير بتغير المكان والارتفاع لتغير الجاذبية g."
+      }
+    ],
+    "formulas": [],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-mech-2-1.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-خصائص-الثقل-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-mech-2-1-1",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الاستاذ حمياني للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KHkod_RIONk",
+        "videoId": "KHkod_RIONk",
+        "thumbnail": "https://img.youtube.com/vi/KHkod_RIONk/hqdefault.jpg",
+        "duration": "17:35"
+      },
+      {
+        "id": "vid-mech-2-1-2",
+        "teacherName": "الأستاذ لخضر سيف الله",
+        "channelName": "الأستاذ لخضر سيف الله",
+        "youtubeUrl": "https://www.youtube.com/watch?v=3WCHXs7fNJo",
+        "videoId": "3WCHXs7fNJo",
+        "thumbnail": "https://img.youtube.com/vi/3WCHXs7fNJo/hqdefault.jpg",
+        "duration": "15:20"
+      },
+      {
+        "id": "vid-mech-2-1-3",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=3WCHXs7fNJo",
+        "videoId": "3WCHXs7fNJo",
+        "thumbnail": "https://img.youtube.com/vi/3WCHXs7fNJo/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-mech-2-1-4",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=3WCHXs7fNJo",
+        "videoId": "3WCHXs7fNJo",
+        "thumbnail": "https://img.youtube.com/vi/3WCHXs7fNJo/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-mech-2-1-5",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KHkod_RIONk",
+        "videoId": "KHkod_RIONk",
+        "thumbnail": "https://img.youtube.com/vi/KHkod_RIONk/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "mech-2-2",
+    "title": "حساب الثقل",
+    "frenchTitle": "Calcul du poids (P = m × g)",
+    "fieldId": "mechanics",
+    "fieldTitle": "الظواهر الميكانيكية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "القانون الأساسي P = m × g، تحويل الغرام إلى الكيلوغرام، وحساب الجاذبية الأرضية.",
+    "objectives": [
+      "تطبيق القانون P = m × g في جميع المسائل والتمارين.",
+      "استنتاج الكتلة m = P / g، والجاذبية g = P / m.",
+      "التحويل الإلزامي للكتلة من الغرام (g) إلى الكيلوغرام (kg) بالقسمة على 1000."
+    ],
+    "concepts": [
+      {
+        "title": "قانون حساب الثقل",
+        "content": "شدة الثقل تتناسب طرداً مع كتلة الجسم وثابت الجاذبية الأرضية:\nP = m × g"
+      }
+    ],
+    "formulas": [
+      {
+        "id": "f-poids",
+        "name": "علاقة حساب الثقل",
+        "expression": "P = m × g",
+        "explanation": "P: شدة الثقل (N)، m: كتلة الجسم بالكيلوغرام حصراً (kg)، g: تسارع الجاذبية الأرضية (N/kg أو m/s²).",
+        "units": [
+          {
+            "symbol": "P",
+            "meaning": "الثقل",
+            "unit": "نيوتن (N)"
+          },
+          {
+            "symbol": "m",
+            "meaning": "الكتلة",
+            "unit": "كيلوغرام (kg)"
+          },
+          {
+            "symbol": "g",
+            "meaning": "الجاذبية الأرضية (عادة 9.8 أو 10)",
+            "unit": "N/kg"
+          }
+        ],
+        "example": "جسم كتلته m = 500 g والجاذبية g = 10 N/kg:\nأولاً نحول: m = 500 / 1000 = 0.5 kg\nثانياً نحسب: P = 0.5 × 10 = 5 N"
+      }
+    ],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-mech-2-2.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-حساب-الثقل-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-mech-2-2-1",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الاستاذ حمياني للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KHkod_RIONk",
+        "videoId": "KHkod_RIONk",
+        "thumbnail": "https://img.youtube.com/vi/KHkod_RIONk/hqdefault.jpg",
+        "duration": "17:35"
+      },
+      {
+        "id": "vid-mech-2-2-2",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ecXwyLwAyj4",
+        "videoId": "ecXwyLwAyj4",
+        "thumbnail": "https://img.youtube.com/vi/ecXwyLwAyj4/hqdefault.jpg",
+        "duration": "32:10"
+      },
+      {
+        "id": "vid-mech-2-2-3",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ecXwyLwAyj4",
+        "videoId": "ecXwyLwAyj4",
+        "thumbnail": "https://img.youtube.com/vi/ecXwyLwAyj4/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-mech-2-2-4",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KHkod_RIONk",
+        "videoId": "KHkod_RIONk",
+        "thumbnail": "https://img.youtube.com/vi/KHkod_RIONk/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-mech-2-2-5",
+        "teacherName": "أ. عقبة للفيزياء",
+        "channelName": "فيزياء BEM مع الأستاذ عقبة",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ecXwyLwAyj4",
+        "videoId": "ecXwyLwAyj4",
+        "thumbnail": "https://img.youtube.com/vi/ecXwyLwAyj4/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "mech-3-1",
+    "title": "توازن جسم صلب خاضع لفعل قوتين",
+    "frenchTitle": "Équilibre sous l'action de deux forces",
+    "fieldId": "mechanics",
+    "fieldTitle": "الظواهر الميكانيكية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "شرطا توازن جسم صلب خاضع لقوتين: نفس الحامل، والمجموع الشعاعي معدوم F1 + F2 = 0.",
+    "objectives": [
+      "حفظ وتطبيق شرطي التوازن لقوتين.",
+      "تحليل توازن جسم معلق بخيط أو نابض أو موضوع على طاولة أفقية.",
+      "كتابة الشروط الرياضية: الشدتان متساويتان F1 = F2، والشعاعان متعاكسان F1_vec = - F2_vec."
+    ],
+    "concepts": [
+      {
+        "title": "شرطا توازن جسم خاضع لقوتين",
+        "content": "يكون جسم صلب خاضع لقوتين F1 و F2 في حالة توازن إذا وفقط إذا تحقق الشرطان:\n1. للقوتين نفس خط التأثير (نفس الحامل).\n2. المجموع الشعاعي للقوتين معدوم: F1_vec + F2_vec = 0_vec (أي لهما نفس الشدة F1 = F2 ومتعاكستان في الاتجاه)."
+      },
+      {
+        "title": "أمثلة شائعة في BEM",
+        "content": "- جسم معلق بخيط: خاضع لثقله P وقوة توتر الخيط T (T = P و T_vec + P_vec = 0).\n- جسم موضوع على طاولة: خاضع لثقله P ورد فعل السطح R."
+      }
+    ],
+    "formulas": [
+      {
+        "id": "f-equil2",
+        "name": "شرط توازن جسم خاضع لقوتين",
+        "expression": "F1_vec + F2_vec = 0_vec   =>   F1 = F2",
+        "explanation": "القوتان متساويتان في الشدة، متعاكستان في الاتجاه، ولهما نفس الحامل.",
+        "units": [
+          {
+            "symbol": "F1, F2",
+            "meaning": "شدة القوتين",
+            "unit": "نيوتن (N)"
+          }
+        ]
+      }
+    ],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-mech-3-1.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-توازن-جسم-صلب-خاضع-لفعل-قوتين-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-mech-3-1-1",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس",
+        "youtubeUrl": "https://www.youtube.com/watch?v=YbEwPZh6fz8",
+        "videoId": "YbEwPZh6fz8",
+        "thumbnail": "https://img.youtube.com/vi/YbEwPZh6fz8/hqdefault.jpg",
+        "duration": "24:10"
+      },
+      {
+        "id": "vid-mech-3-1-2",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الاستاذ حمياني للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=tZNHH0VVOjw",
+        "videoId": "tZNHH0VVOjw",
+        "thumbnail": "https://img.youtube.com/vi/tZNHH0VVOjw/hqdefault.jpg",
+        "duration": "18:25"
+      },
+      {
+        "id": "vid-mech-3-1-3",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=tZNHH0VVOjw",
+        "videoId": "tZNHH0VVOjw",
+        "thumbnail": "https://img.youtube.com/vi/tZNHH0VVOjw/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-mech-3-1-4",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=YbEwPZh6fz8",
+        "videoId": "YbEwPZh6fz8",
+        "thumbnail": "https://img.youtube.com/vi/YbEwPZh6fz8/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-mech-3-1-5",
+        "teacherName": "أ. عقبة للفيزياء",
+        "channelName": "فيزياء BEM مع الأستاذ عقبة",
+        "youtubeUrl": "https://www.youtube.com/watch?v=tZNHH0VVOjw",
+        "videoId": "tZNHH0VVOjw",
+        "thumbnail": "https://img.youtube.com/vi/tZNHH0VVOjw/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "mech-3-2",
+    "title": "توازن جسم صلب خاضع لفعل ثلاث قوى غير متوازية",
+    "frenchTitle": "Équilibre sous trois forces non parallèles",
+    "fieldId": "mechanics",
+    "fieldTitle": "الظواهر الميكانيكية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "شرطا التوازن لثلاث قوى: تلاقي حوامل القوى في نقطة واحدة، والمضلع المغلق للأشعة F1 + F2 + F3 = 0.",
+    "objectives": [
+      "التحقق من تلاقي حوامل القوى الثلاث في نقطة واحدة ووقوعها في نفس المستوي.",
+      "رسم مضلع القوى المغلق (مثلث القوى) لإيجاد شدة مجهولة أو التحقق من التوازن.",
+      "تطبيق طريقة التحليل الإسقاطي أو قانون الجيب في الحالات المناسبة."
+    ],
+    "concepts": [
+      {
+        "title": "شرطا توازن جسم صلب خاضع لثلاث قوى غير متوازية",
+        "content": "1. حوامل القوى الثلاث تتلاقى في نقطة واحدة وتقع في نفس المستوي (Forces concourantes et coplanaires).\n2. المجموع الشعاعي للقوى الثلاث معدوم: F1_vec + F2_vec + F3_vec = 0_vec، أي تشكل عند رسمها مضلعاً مغلقاً متتابع الأسهم."
+      }
+    ],
+    "formulas": [
+      {
+        "id": "f-equil3",
+        "name": "المجموع الشعاعي لثلاث قوى في توازن",
+        "expression": "F1_vec + F2_vec + F3_vec = 0_vec",
+        "explanation": "محصلة القوى الثلاث معدومة والمضلع الذي تشكله مغلق.",
+        "units": [
+          {
+            "symbol": "F1, F2, F3",
+            "meaning": "شدة القوى",
+            "unit": "نيوتن (N)"
+          }
+        ]
+      }
+    ],
+    "download": {
+      "pdfUrl": "",
+      "wordUrl": "",
+      "fileName": "",
+      "fileType": "none",
+      "fileSize": "",
+      "isAvailable": false
+    },
+    "videos": [
+      {
+        "id": "vid-mech-3-2-1",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vW6kVgSliSI",
+        "videoId": "vW6kVgSliSI",
+        "thumbnail": "https://img.youtube.com/vi/vW6kVgSliSI/hqdefault.jpg",
+        "duration": "27:40"
+      },
+      {
+        "id": "vid-mech-3-2-2",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الاستاذ حمياني للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=tegMGGszRgk",
+        "videoId": "tegMGGszRgk",
+        "thumbnail": "https://img.youtube.com/vi/tegMGGszRgk/hqdefault.jpg",
+        "duration": "22:15"
+      },
+      {
+        "id": "vid-mech-3-2-3",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=tegMGGszRgk",
+        "videoId": "tegMGGszRgk",
+        "thumbnail": "https://img.youtube.com/vi/tegMGGszRgk/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-mech-3-2-4",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vW6kVgSliSI",
+        "videoId": "vW6kVgSliSI",
+        "thumbnail": "https://img.youtube.com/vi/vW6kVgSliSI/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-mech-3-2-5",
+        "teacherName": "أ. عقبة للفيزياء",
+        "channelName": "فيزياء BEM مع الأستاذ عقبة",
+        "youtubeUrl": "https://www.youtube.com/watch?v=tegMGGszRgk",
+        "videoId": "tegMGGszRgk",
+        "thumbnail": "https://img.youtube.com/vi/tegMGGszRgk/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "mech-4-1",
+    "title": "قياس شدة دافعة أرخميدس",
+    "frenchTitle": "Mesure de la poussée d'Archimède",
+    "fieldId": "mechanics",
+    "fieldTitle": "الظواهر الميكانيكية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "مفهوم دافعة أرخميدس Fa، طريقتان لحسابها: Fa = P - P' (الثقل الحقيقي ناقص الثقل الظاهري) أو Fa = ρ × V × g.",
+    "objectives": [
+      "تعريف دافعة أرخميدس كقوة يطبقها مائع (سائل أو غاز) على جسم مغمور فيه شاقولياً نحو الأعلى.",
+      "حساب الشدة من قراءة الربيعة: Fa = P (في الهواء) - P' (في السائل).",
+      "حساب الشدة من ثقل السائل المزاح: Fa = P_liq = m_liq × g = ρ × V × g."
+    ],
+    "concepts": [
+      {
+        "title": "مميزات شعاع دافعة أرخميدس Fa",
+        "content": "1. نقطة التأثير: مركز ثقل الجزء المغمور من الجسم (C).\n2. المنحى: الشاقول.\n3. الاتجاه: نحو الأعلى (عكس اتجاه الثقل تماماً).\n4. الشدة: تساوي ثقل السائل المزاح بواسطة الجسم."
+      },
+      {
+        "title": "طرق حساب شدة دافعة أرخميدس",
+        "content": "1. باستعمال الثقل الحقيقي والظاهري: Fa = P_réel - P_apparent\n2. باستعمال كتلة السائل المزاح: Fa = m_liq × g\n3. باستعمال الكتلة الحجمية للسائل: Fa = ρ_liq × V_im × g"
+      }
+    ],
+    "formulas": [
+      {
+        "id": "f-fa-poids",
+        "name": "دافعة أرخميدس بالثقل الظاهري",
+        "expression": "Fa = P - P'",
+        "explanation": "P: الثقل الحقيقي المقاس في الهواء، P': الثقل الظاهري المقاس داخل السائل.",
+        "units": [
+          {
+            "symbol": "Fa",
+            "meaning": "دافعة أرخميدس",
+            "unit": "نيوتن (N)"
+          },
+          {
+            "symbol": "P",
+            "meaning": "الثقل الحقيقي في الهواء",
+            "unit": "نيوتن (N)"
+          },
+          {
+            "symbol": "P'",
+            "meaning": "الثقل الظاهري في السائل",
+            "unit": "نيوتن (N)"
+          }
+        ],
+        "example": "جسم ثقله في الهواء P = 4 N وغمر في الماء فأشارت الربيعة إلى P' = 2.5 N:\nFa = 4 - 2.5 = 1.5 N"
+      },
+      {
+        "id": "f-fa-rho",
+        "name": "دافعة أرخميدس بدلالة الكتلة الحجمية",
+        "expression": "Fa = ρ × V × g",
+        "explanation": "ρ: الكتلة الحجمية للسائل (kg/m³)، V: حجم الجزء المغمور (m³)، g: الجاذبية (N/kg).",
+        "units": [
+          {
+            "symbol": "ρ",
+            "meaning": "الكتلة الحجمية للسائل",
+            "unit": "kg/m³ (ماء نقي = 1000 kg/m³)"
+          },
+          {
+            "symbol": "V",
+            "meaning": "حجم السائل المزاح أو الجزء المغمور",
+            "unit": "متر مكعب (m³)"
+          },
+          {
+            "symbol": "g",
+            "meaning": "الجاذبية الأرضية",
+            "unit": "N/kg"
+          }
+        ]
+      }
+    ],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-mech-4-1.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-قياس-شدة-دافعة-أرخميدس-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-mech-4-1-1",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس",
+        "youtubeUrl": "https://www.youtube.com/watch?v=SsnczWPgvo8",
+        "videoId": "SsnczWPgvo8",
+        "thumbnail": "https://img.youtube.com/vi/SsnczWPgvo8/hqdefault.jpg",
+        "duration": "26:12"
+      },
+      {
+        "id": "vid-mech-4-1-2",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=WAYApQwrQT0",
+        "videoId": "WAYApQwrQT0",
+        "thumbnail": "https://img.youtube.com/vi/WAYApQwrQT0/hqdefault.jpg",
+        "duration": "19:40"
+      },
+      {
+        "id": "vid-mech-4-1-3",
+        "teacherName": "الاستاذ ربحي إدريس",
+        "channelName": "الاستاذ ربحي إدريس",
+        "youtubeUrl": "https://www.youtube.com/watch?v=GOGzXdi5riw",
+        "videoId": "GOGzXdi5riw",
+        "thumbnail": "https://img.youtube.com/vi/GOGzXdi5riw/hqdefault.jpg",
+        "duration": "20:15"
+      },
+      {
+        "id": "vid-mech-4-1-4",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الأستاذ حمياني للعلوم الفيزيائية",
+        "youtubeUrl": "https://www.youtube.com/watch?v=GOGzXdi5riw",
+        "videoId": "GOGzXdi5riw",
+        "thumbnail": "https://img.youtube.com/vi/GOGzXdi5riw/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-mech-4-1-5",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=SsnczWPgvo8",
+        "videoId": "SsnczWPgvo8",
+        "thumbnail": "https://img.youtube.com/vi/SsnczWPgvo8/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "mech-4-2",
+    "title": "شرط توازن جسم مغمور في سائل",
+    "frenchTitle": "Conditions d'équilibre et flottabilité",
+    "fieldId": "mechanics",
+    "fieldTitle": "الظواهر الميكانيكية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "شروط الطفو والغوص وتوازن جسم في قاع أو داخل سائل بمقارنة الثقل P مع الدافعة Fa أو الكتلة الحجمية للجسم مع السائل.",
+    "objectives": [
+      "مقارنة شدة الثقل P مع دافعة أرخميدس Fa لتحديد حالة الجسم (يطفو، معلق، يغوص).",
+      "مقارنة الكتلة الحجمية للجسم ρ_corps مع الكتلة الحجمية للسائل ρ_liquide.",
+      "كتابة شرط التوازن لجسم طافٍ على السطح: P = Fa_flottante."
+    ],
+    "concepts": [
+      {
+        "title": "الحالات الثلاث لاستقرار الجسم في سائل",
+        "content": "1. الجسم يغوص نحو القاع: إذا كان ثقله أكبر من دافعة أرخميدس الكبرى (P > Fa_max) أو ρ_corps > ρ_liq.\n2. الجسم معلق في توازن داخل السائل: إذا كان P = Fa أو ρ_corps = ρ_liq.\n3. الجسم يصعد ويطفو على السطح: إذا كان P < Fa_max أو ρ_corps < ρ_liq. وعندما يستقر طافياً يصبح: P = Fa_مغمور."
+      }
+    ],
+    "formulas": [
+      {
+        "id": "f-flottement",
+        "name": "شرط توازن جسم طافٍ",
+        "expression": "P = Fa",
+        "explanation": "عندما يطفو الجسم ويستقر، شدة الثقل تساوي شدة دافعة أرخميدس للجزء المغمور فقط.",
+        "units": [
+          {
+            "symbol": "P",
+            "meaning": "الثقل الكلي للجسم",
+            "unit": "نيوتن (N)"
+          },
+          {
+            "symbol": "Fa",
+            "meaning": "دافعة أرخميدس للجزء المغمور",
+            "unit": "نيوتن (N)"
+          }
+        ]
+      }
+    ],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-mech-4-2.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-شرط-توازن-جسم-مغمور-في-سائل-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-mech-4-2-1",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس",
+        "youtubeUrl": "https://www.youtube.com/watch?v=GIYDkJSNrUM",
+        "videoId": "GIYDkJSNrUM",
+        "thumbnail": "https://img.youtube.com/vi/GIYDkJSNrUM/hqdefault.jpg",
+        "duration": "25:30"
+      },
+      {
+        "id": "vid-mech-4-2-2",
+        "teacherName": "الأستاذ ريان",
+        "channelName": "الأستاذ ريان",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hMaemsBplYo",
+        "videoId": "hMaemsBplYo",
+        "thumbnail": "https://img.youtube.com/vi/hMaemsBplYo/hqdefault.jpg",
+        "duration": "21:10"
+      },
+      {
+        "id": "vid-mech-4-2-3",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الأستاذ حمياني للعلوم الفيزيائية",
+        "youtubeUrl": "https://www.youtube.com/watch?v=GIYDkJSNrUM",
+        "videoId": "GIYDkJSNrUM",
+        "thumbnail": "https://img.youtube.com/vi/GIYDkJSNrUM/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-mech-4-2-4",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hMaemsBplYo",
+        "videoId": "hMaemsBplYo",
+        "thumbnail": "https://img.youtube.com/vi/hMaemsBplYo/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-mech-4-2-5",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=GIYDkJSNrUM",
+        "videoId": "GIYDkJSNrUM",
+        "thumbnail": "https://img.youtube.com/vi/GIYDkJSNrUM/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "opt-1-1",
+    "title": "اختلاف أبعاد منظر الشيء حسب زوايا النظر",
+    "frenchTitle": "Diamètre apparent et angle de vision",
+    "fieldId": "optics",
+    "fieldTitle": "الظواهر الضوئية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "القطر الظاهري (Diamètre apparent)، زاوية النظر وتغيرها مع البعد والارتفاع والعلاقة المثلثية tan(α) = d / L.",
+    "objectives": [
+      "تعريف القطر الظاهري (الزاوية ألفا α التي ينظر بها الراصد إلى أبعاد الشيء).",
+      "تفسير صغر منظر الأشياء البعيدة وكبر منظر الأشياء القريبة.",
+      "تطبيق العلاقة الرياضية للظل: tan(α) = d / L لحساب طول جسم أو بعده."
+    ],
+    "concepts": [
+      {
+        "title": "القطر الظاهري (Diamètre apparent α)",
+        "content": "هو الزاوية التي يشكلها الشعاعان الضوئيان الصادران من طرفي الجسم ويمران بمركز حدقة عين الراصد. يقاس بالراديان (rad) أو الدرجات."
+      },
+      {
+        "title": "العوامل المؤثرة في القطر الظاهري",
+        "content": "- يزداد القطر الظاهري كلما اقترب الجسم من العين (نقصان المسافة L).\n- يزداد القطر الظاهري كلما كبر الطول الحقيقي للجسم d.\nالعلاقة المثلثية: tan(α) = d / L"
+      }
+    ],
+    "formulas": [
+      {
+        "id": "f-alpha",
+        "name": "حساب زاوية النظر (القطر الظاهري)",
+        "expression": "tan(α) = d / L  (وعند الزوايا الصغيرة جداً: α ≈ d / L)",
+        "explanation": "d: البعد الحقيقي للجسم (القطر أو الارتفاع)، L: بعد الجسم عن عين الراصد.",
+        "units": [
+          {
+            "symbol": "d",
+            "meaning": "طول أو قطر الجسم",
+            "unit": "متر (m)"
+          },
+          {
+            "symbol": "L",
+            "meaning": "المسافة بين العين والجسم",
+            "unit": "متر (m)"
+          },
+          {
+            "symbol": "α",
+            "meaning": "زاوية النظر",
+            "unit": "راديان (rad) أو درجة (°)"
+          }
+        ],
+        "example": "عمود طوله d = 5 m يبعد مسافة L = 50 m:\ntan(α) = 5 / 50 = 0.1 rad"
+      }
+    ],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-opt-1-1.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-اختلاف-أبعاد-منظر-الشيء-حسب-زوايا-النظر-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-opt-1-1-1",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=YzaDOjEhl1E",
+        "videoId": "YzaDOjEhl1E",
+        "thumbnail": "https://img.youtube.com/vi/YzaDOjEhl1E/hqdefault.jpg",
+        "duration": "16:45"
+      },
+      {
+        "id": "vid-opt-1-1-2",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الاستاذ حمياني للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=XhReJ4eh9v4",
+        "videoId": "XhReJ4eh9v4",
+        "thumbnail": "https://img.youtube.com/vi/XhReJ4eh9v4/hqdefault.jpg",
+        "duration": "18:50"
+      },
+      {
+        "id": "vid-opt-1-1-3",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=XhReJ4eh9v4",
+        "videoId": "XhReJ4eh9v4",
+        "thumbnail": "https://img.youtube.com/vi/XhReJ4eh9v4/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-opt-1-1-4",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=YzaDOjEhl1E",
+        "videoId": "YzaDOjEhl1E",
+        "thumbnail": "https://img.youtube.com/vi/YzaDOjEhl1E/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-opt-1-1-5",
+        "teacherName": "أ. عقبة للفيزياء",
+        "channelName": "فيزياء BEM مع الأستاذ عقبة",
+        "youtubeUrl": "https://www.youtube.com/watch?v=XhReJ4eh9v4",
+        "videoId": "XhReJ4eh9v4",
+        "thumbnail": "https://img.youtube.com/vi/XhReJ4eh9v4/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "opt-2-1",
+    "title": "صورة جسم معطاة بمرآة مستوية",
+    "frenchTitle": "Image donnée par un miroir plan",
+    "fieldId": "optics",
+    "fieldTitle": "الظواهر الضوئية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "خصائص الصورة الافتراضية (Virtuelle)، التناظر المحوري بالنسبة لمستوي المرآة ومساواة المسافات والأبعاد.",
+    "objectives": [
+      "معرفة أن الصورة المعطاة بمرآة مستوية هي صورة افتراضية لا يمكن استقبالها على شاشة.",
+      "استنتاج خاصية التناظر: بعد الصورة عن المرآة يساوي بعد الجسم عن المرآة.",
+      "إدراك أن أبعاد الصورة متساوية تماماً مع أبعاد الجسم الأصلي ولكنها معكوسة يمنة ويسرة."
+    ],
+    "concepts": [
+      {
+        "title": "خصائص الصورة في المرآة المستوية",
+        "content": "1. صورة افتراضية (تتشكل خلف المرآة عند تلاقي امتدادات الأشعة المنعكسة).\n2. تناظر محوري: إذا كان الجسم يبعد عن المرآة بمسافة d فإن صورته تبعد خلف المرآة بنفس المسافة d.\n3. أبعاد الصورة مطابقة لأبعاد الجسم تماماً (طول الصورة = طول الجسم).\n4. معكوسة جانبياً (اليمين يظهر يساراً واليسار يميناً)."
+      }
+    ],
+    "formulas": [],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-opt-2-1.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-صورة-جسم-معطاة-بمرآة-مستوية-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-opt-2-1-1",
+        "teacherName": "رحمة نور اليقين للفيزياء و الرياضيات",
+        "channelName": "رحمة نور اليقين للفيزياء و الرياضيات",
+        "youtubeUrl": "https://www.youtube.com/watch?v=aU02pF6vZP4",
+        "videoId": "aU02pF6vZP4",
+        "thumbnail": "https://img.youtube.com/vi/aU02pF6vZP4/hqdefault.jpg",
+        "duration": "19:20"
+      },
+      {
+        "id": "vid-opt-2-1-2",
+        "teacherName": "الأستاذة مبرك فيزياء",
+        "channelName": "الأستاذة مبرك فيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=IxN3PYqIZH4",
+        "videoId": "IxN3PYqIZH4",
+        "thumbnail": "https://img.youtube.com/vi/IxN3PYqIZH4/hqdefault.jpg",
+        "duration": "16:10"
+      },
+      {
+        "id": "vid-opt-2-1-3",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=IxN3PYqIZH4",
+        "videoId": "IxN3PYqIZH4",
+        "thumbnail": "https://img.youtube.com/vi/IxN3PYqIZH4/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-opt-2-1-4",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الأستاذ حمياني للعلوم الفيزيائية",
+        "youtubeUrl": "https://www.youtube.com/watch?v=aU02pF6vZP4",
+        "videoId": "aU02pF6vZP4",
+        "thumbnail": "https://img.youtube.com/vi/aU02pF6vZP4/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-opt-2-1-5",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=IxN3PYqIZH4",
+        "videoId": "IxN3PYqIZH4",
+        "thumbnail": "https://img.youtube.com/vi/IxN3PYqIZH4/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "opt-2-2",
+    "title": "قانون الانعكاس",
+    "frenchTitle": "Lois de la réflexion (Lois de Descartes)",
+    "fieldId": "optics",
+    "fieldTitle": "الظواهر الضوئية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "ظاهرة الانعكاس، الشعاع الوارد والمنعكس والناظم، وقانونا ديكارت للانعكاس: زاوية الورود = زاوية الانعكاس (i = r).",
+    "objectives": [
+      "تعريف عناصر الانعكاس: الشعاع الوارد، الشعاع المنعكس، نقطة الورود، والناظم (المستقيم العمودي على المرآة).",
+      "حفظ وتطبيق قانوني الانعكاس لديكارت: 1) الشعاع الوارد والمنعكس والناظم تقع في نفس المستوي. 2) زاوية الورود تساوي زاوية الانعكاس i = r.",
+      "رسم مسار الأشعة وتحديد زوايا الورود والانعكاس بدقة هندسية."
+    ],
+    "concepts": [
+      {
+        "title": "قانونا الانعكاس لديكارت (Lois de Descartes)",
+        "content": "1. القانون الأول: يقع الشعاع الضوئي الوارد والشعاع الضوئي المنعكس والناظم على سطح المرآة في نقطة الورود في نفس المستوي (مستوي الورود).\n2. القانون الثاني: زاوية الانعكاس r تساوي دوماً زاوية الورود i:\ni = r"
+      },
+      {
+        "title": "تعريف الزوايا بدقة",
+        "content": "- زاوية الورود (Angle d'incidence i): هي الزاوية المحصورة بين الشعاع الوارد والناظم (وليس سطح المرآة!).\n- زاوية الانعكاس (Angle de réflexion r): هي الزاوية المحصورة بين الشعاع المنعكس والناظم."
+      }
+    ],
+    "formulas": [
+      {
+        "id": "f-reflec",
+        "name": "قانون الانعكاس الثاني",
+        "expression": "i = r",
+        "explanation": "زاوية الورود i تساوي زاوية الانعكاس r (كلاهما يقاس بالنسبة للناظم العمودي N).",
+        "units": [
+          {
+            "symbol": "i",
+            "meaning": "زاوية الورود",
+            "unit": "درجة (°)"
+          },
+          {
+            "symbol": "r",
+            "meaning": "زاوية الانعكاس",
+            "unit": "درجة (°)"
+          }
+        ],
+        "example": "إذا كانت الزاوية بين الشعاع الوارد وسطح المرآة 30°، فإن زاوية الورود مع الناظم هي i = 90 - 30 = 60°، وبالتالي زاوية الانعكاس r = 60°"
+      }
+    ],
+    "download": {
+      "pdfUrl": "https://example.com/downloads/bem-physique-opt-2-2.pdf",
+      "wordUrl": "",
+      "fileName": "ملخص-قانون-الانعكاس-4متوسط.pdf",
+      "fileType": "pdf",
+      "fileSize": "2.4 MB",
+      "isAvailable": true
+    },
+    "videos": [
+      {
+        "id": "vid-opt-2-2-1",
+        "teacherName": "dorouscom",
+        "channelName": "dorouscom",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hpbryYWG4d4",
+        "videoId": "hpbryYWG4d4",
+        "thumbnail": "https://img.youtube.com/vi/hpbryYWG4d4/hqdefault.jpg",
+        "duration": "15:30"
+      },
+      {
+        "id": "vid-opt-2-2-2",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الاستاذ حمياني للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=XhReJ4eh9v4",
+        "videoId": "XhReJ4eh9v4",
+        "thumbnail": "https://img.youtube.com/vi/XhReJ4eh9v4/hqdefault.jpg",
+        "duration": "18:50"
+      },
+      {
+        "id": "vid-opt-2-2-3",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=XhReJ4eh9v4",
+        "videoId": "XhReJ4eh9v4",
+        "thumbnail": "https://img.youtube.com/vi/XhReJ4eh9v4/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-opt-2-2-4",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=XhReJ4eh9v4",
+        "videoId": "XhReJ4eh9v4",
+        "thumbnail": "https://img.youtube.com/vi/XhReJ4eh9v4/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-opt-2-2-5",
+        "teacherName": "أ. دقيش إبراهيم",
+        "channelName": "الأستاذ دقيش إبراهيم",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hpbryYWG4d4",
+        "videoId": "hpbryYWG4d4",
+        "thumbnail": "https://img.youtube.com/vi/hpbryYWG4d4/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  },
+  {
+    "id": "opt-2-3",
+    "title": "مجال المرآة المستوية",
+    "frenchTitle": "Champ de vision d'un miroir plan",
+    "fieldId": "optics",
+    "fieldTitle": "الظواهر الضوئية",
+    "subject": "العلوم الفيزيائية والتكنولوجيا",
+    "grade": "السنة الرابعة متوسط (BEM)",
+    "description": "تحديد الحقل البصري للمرآة المستوية، والعوامل المؤثرة (موقع عين الراصد وأبعاد المرآة).",
+    "objectives": [
+      "تعريف مجال المرآة المستوية كالمنطقة من الفضاء التي يراها الراصد بالمرآة دون تحريك رأسه.",
+      "رسم حدود مجال المرآة بتوصيل عين الراصد (أو صورتها الافتراضية) بحافتي المرآة.",
+      "استنتاج أن مجال الرؤية يتسع كلما كبرت المرآة أو اقتربت عين الراصد منها."
+    ],
+    "concepts": [
+      {
+        "title": "مجال المرآة المستوية (Champ du miroir)",
+        "content": "هو الفضاء الواقع أمام المرآة والذي تنعكس منه أشعة ضوئية نحو عين الراصد، فتتمكن من رؤية الأجسام الموجودة داخله."
+      },
+      {
+        "title": "طريقة الرسم وتحديد المجال",
+        "content": "1. ننشئ النقطة O' نظيرة عين الراصد O بالنسبة للمرآة.\n2. نرسم مستقيمين ينطلقان من O' ويمران بحافتي المرآة A و B نحو الأمام.\n3. المنطقة المحصورة بين نصفي هذين المستقيمين أمام المرآة تمثل مجال رؤية المرآة."
+      }
+    ],
+    "formulas": [],
+    "download": {
+      "pdfUrl": "",
+      "wordUrl": "",
+      "fileName": "",
+      "fileType": "none",
+      "fileSize": "",
+      "isAvailable": false
+    },
+    "videos": [
+      {
+        "id": "vid-opt-2-3-1",
+        "teacherName": "dorouscom",
+        "channelName": "dorouscom",
+        "youtubeUrl": "https://www.youtube.com/watch?v=x4e4qeM4LE8",
+        "videoId": "x4e4qeM4LE8",
+        "thumbnail": "https://img.youtube.com/vi/x4e4qeM4LE8/hqdefault.jpg",
+        "duration": "17:40"
+      },
+      {
+        "id": "vid-opt-2-3-2",
+        "teacherName": "رحمة نور اليقين للفيزياء و الرياضيات",
+        "channelName": "رحمة نور اليقين للفيزياء و الرياضيات",
+        "youtubeUrl": "https://www.youtube.com/watch?v=aU02pF6vZP4",
+        "videoId": "aU02pF6vZP4",
+        "thumbnail": "https://img.youtube.com/vi/aU02pF6vZP4/hqdefault.jpg",
+        "duration": "19:20"
+      },
+      {
+        "id": "vid-opt-2-3-3",
+        "teacherName": "أ. زوطاط يونس",
+        "channelName": "الأستاذ زوطاط يونس للفيزياء",
+        "youtubeUrl": "https://www.youtube.com/watch?v=aU02pF6vZP4",
+        "videoId": "aU02pF6vZP4",
+        "thumbnail": "https://img.youtube.com/vi/aU02pF6vZP4/hqdefault.jpg",
+        "duration": "20:34"
+      },
+      {
+        "id": "vid-opt-2-3-4",
+        "teacherName": "أ. حمياني للفيزياء",
+        "channelName": "الأستاذ حمياني للعلوم الفيزيائية",
+        "youtubeUrl": "https://www.youtube.com/watch?v=x4e4qeM4LE8",
+        "videoId": "x4e4qeM4LE8",
+        "thumbnail": "https://img.youtube.com/vi/x4e4qeM4LE8/hqdefault.jpg",
+        "duration": "23:41"
+      },
+      {
+        "id": "vid-opt-2-3-5",
+        "teacherName": "أ. دروسي على النت",
+        "channelName": "دروسي على النت",
+        "youtubeUrl": "https://www.youtube.com/watch?v=aU02pF6vZP4",
+        "videoId": "aU02pF6vZP4",
+        "thumbnail": "https://img.youtube.com/vi/aU02pF6vZP4/hqdefault.jpg",
+        "duration": "26:48"
+      }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "فيزياء 4 متوسط | Physique 4AM",
+  "description": "تطبيق تعليمي احترافي شامل لمادة العلوم الفيزيائية والتكنولوجيا لتلاميذ السنة الرابعة متوسط في الجزائر مع الأستاذ الذكي وفيديوهات الدروس وتحضير BEM.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
