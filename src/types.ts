@@ -73,6 +73,7 @@ export interface LessonVideoItem {
   videoId: string;
   thumbnail: string;
   duration?: string;
+  isVerified?: boolean;
 }
 
 export interface LessonDownloadItem {

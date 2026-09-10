@@ -8,6 +8,7 @@ import {
   ExternalLink,
   CheckCircle2,
   AlertCircle,
+  Clock,
   FileQuestion,
   Printer,
   Sparkles,
@@ -16,6 +17,11 @@ import {
   BookOpen
 } from 'lucide-react';
 import { LessonLibraryItem, LessonVideoItem } from '../../types';
+import {
+  isLessonDownloadReal,
+  getLibraryLessonById,
+  subscribeLibrary
+} from '../../data/lessonsLibrary';
 
 interface LessonDetailViewProps {
   lesson: LessonLibraryItem;
@@ -24,10 +30,19 @@ interface LessonDetailViewProps {
 }
 
 export const LessonDetailView: React.FC<LessonDetailViewProps> = ({
-  lesson,
+  lesson: initialLesson,
   onBack,
   onOpenAiTutor
 }) => {
+  const [, setRerender] = useState(0);
+
+  // Subscribe to library changes (e.g. from AdminPanel)
+  useEffect(() => {
+    return subscribeLibrary(() => setRerender((v) => v + 1));
+  }, []);
+
+  const lesson = getLibraryLessonById(initialLesson.id) || initialLesson;
+
   // Currently active video in embedded player (defaults to first video)
   const [activeVideo, setActiveVideo] = useState<LessonVideoItem>(lesson.videos[0]);
   const [isPlaying, setIsPlaying] = useState<boolean>(false);
@@ -36,8 +51,8 @@ export const LessonDetailView: React.FC<LessonDetailViewProps> = ({
   useEffect(() => {
     // Reset active video when lesson changes
     if (lesson.videos.length > 0) {
-      setActiveVideo(lesson.videos[0]);
-      setIsPlaying(false);
+      const matched = lesson.videos.find((v) => v.id === activeVideo?.id) || lesson.videos[0];
+      setActiveVideo(matched);
     }
   }, [lesson]);
 
@@ -54,12 +69,14 @@ export const LessonDetailView: React.FC<LessonDetailViewProps> = ({
     window.print();
   };
 
-  const hasDownloadFile = Boolean(
-    lesson.download.isAvailable && (lesson.download.pdfUrl || lesson.download.wordUrl)
-  );
+  // Strict check: If pdfUrl or wordUrl contains example.com or is empty, isAvailable is treated as false
+  const isDownloadReal = isLessonDownloadReal(lesson.download);
+  const rawDownloadUrl = (lesson.download.pdfUrl || lesson.download.wordUrl || '').trim();
+  const hasDownloadFile = isDownloadReal && !rawDownloadUrl.includes('example.com') && rawDownloadUrl !== '';
 
-  const downloadUrl = lesson.download.pdfUrl || lesson.download.wordUrl || '';
+  const downloadUrl = hasDownloadFile ? rawDownloadUrl : '';
   const fileTypeLabel = lesson.download.fileType === 'word' ? 'Word (.docx)' : 'PDF (.pdf)';
+
 
   return (
     <div className="space-y-6 animate-in fade-in duration-200" dir="rtl">
@@ -208,7 +225,7 @@ export const LessonDetailView: React.FC<LessonDetailViewProps> = ({
               <div>
                 <div className="flex items-center gap-2">
                   <span className="font-bold text-xs sm:text-sm text-amber-900 dark:text-amber-300">
-                    ملف تحميل الدرس: غير متوفر حاليًا
+                    الملف غير متوفر حاليًا
                   </span>
                 </div>
                 <p className="text-xs text-amber-700 dark:text-amber-400 mt-0.5">
@@ -245,11 +262,22 @@ export const LessonDetailView: React.FC<LessonDetailViewProps> = ({
                 <Video className="w-4 h-4" />
               </div>
               <div className="min-w-0">
-                <div className="flex items-center gap-2">
+                <div className="flex items-center gap-2 flex-wrap">
                   <span className="text-xs font-bold text-red-400">مشغّل يوتيوب المدمج داخل التطبيق</span>
                   <span className="text-[11px] px-2 py-0.5 rounded-full bg-slate-800 text-slate-300">
                     {activeVideo.teacherName}
                   </span>
+                  {activeVideo.isVerified ? (
+                    <span className="text-[10px] px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 flex items-center gap-1 font-semibold" title="تم التحقق من مطابقة هذا الفيديو للدرس">
+                      <CheckCircle2 className="w-3 h-3" />
+                      <span>متحقق منه</span>
+                    </span>
+                  ) : (
+                    <span className="text-[10px] px-2 py-0.5 rounded-full bg-amber-500/20 text-amber-300 border border-amber-500/30 flex items-center gap-1 font-semibold" title="فيديو قيد المراجعة والتدقيق التربوي">
+                      <Clock className="w-3 h-3" />
+                      <span>قيد المراجعة</span>
+                    </span>
+                  )}
                 </div>
                 <h3 className="text-xs sm:text-sm font-bold text-white truncate max-w-xl">
                   {activeVideo.title || `شرح ${lesson.title}`}
@@ -385,7 +413,7 @@ export const LessonDetailView: React.FC<LessonDetailViewProps> = ({
                     )}
                   </div>
 
-                  {/* Teacher & Channel Details */}
+                  {/* Teacher & Channel Details & Verification Status */}
                   <div className="space-y-1">
                     <div className="flex items-center justify-between gap-1.5 flex-wrap">
                       <span className="inline-flex items-center gap-1 text-[11px] font-bold px-2 py-0.5 rounded-md bg-amber-50 dark:bg-amber-950/40 text-amber-800 dark:text-amber-300 border border-amber-200 dark:border-amber-800">
@@ -393,10 +421,23 @@ export const LessonDetailView: React.FC<LessonDetailViewProps> = ({
                         <span>{video.teacherName}</span>
                       </span>
 
-                      <span className="text-[11px] text-slate-500 dark:text-slate-400 truncate max-w-[130px]">
-                        📺 {video.channelName}
-                      </span>
+                      {video.isVerified ? (
+                        <span className="inline-flex items-center gap-1 text-[10px] font-bold px-2 py-0.5 rounded-md bg-emerald-50 dark:bg-emerald-950/40 text-emerald-700 dark:text-emerald-300 border border-emerald-200 dark:border-emerald-800" title="تم التحقق من مطابقة وصحة هذا الفيديو">
+                          <CheckCircle2 className="w-3 h-3 text-emerald-600 dark:text-emerald-400" />
+                          <span>متحقق منه</span>
+                        </span>
+                      ) : (
+                        <span className="inline-flex items-center gap-1 text-[10px] font-bold px-2 py-0.5 rounded-md bg-amber-50 dark:bg-amber-950/40 text-amber-700 dark:text-amber-300 border border-amber-200 dark:border-amber-800" title="هذا الفيديو قيد المراجعة والتدقيق التربوي">
+                          <Clock className="w-3 h-3 text-amber-600 dark:text-amber-400" />
+                          <span>قيد المراجعة</span>
+                        </span>
+                      )}
                     </div>
+
+                    <div className="text-[11px] text-slate-500 dark:text-slate-400 truncate">
+                      📺 {video.channelName}
+                    </div>
+
 
                     {/* Video Title */}
                     <h4

@@ -52,6 +52,39 @@ app.get("/api/health", (req, res) => {
   });
 });
 
+// Admin Authentication endpoint: Verifies passcode against ADMIN_PASSCODE on the server
+app.post("/api/admin/verify", (req, res) => {
+  try {
+    const { passcode } = req.body;
+    const adminPasscode = (process.env.ADMIN_PASSCODE || "bem2025admin").trim();
+
+    if (!passcode || typeof passcode !== "string") {
+      return res.status(400).json({
+        success: false,
+        error: "يرجى إدخال كلمة مرور لوحة التحكم."
+      });
+    }
+
+    if (passcode.trim() === adminPasscode) {
+      return res.json({
+        success: true,
+        message: "تم التحقق بنجاح من هوية الأستاذ / المسؤول."
+      });
+    }
+
+    return res.status(401).json({
+      success: false,
+      error: "كلمة المرور غير صحيحة. يرجى المحاولة مرة أخرى."
+    });
+  } catch (error: any) {
+    console.error("Admin verify error:", error);
+    res.status(500).json({
+      success: false,
+      error: "حدث خطأ في الخادم أثناء التحقق من كلمة المرور."
+    });
+  }
+});
+
 // AI Chat Tutor endpoint
 app.post("/api/ai/chat", async (req, res) => {
   try {

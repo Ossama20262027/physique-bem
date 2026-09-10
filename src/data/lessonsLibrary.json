@@ -69,7 +69,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=2BVDN3TgAmE",
         "videoId": "2BVDN3TgAmE",
         "thumbnail": "https://img.youtube.com/vi/2BVDN3TgAmE/hqdefault.jpg",
-        "duration": "18:24"
+        "duration": "18:24",
+        "isVerified": false
       },
       {
         "id": "vid-elec-1-1-2",
@@ -78,7 +79,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=bxhrPYKQiJI",
         "videoId": "bxhrPYKQiJI",
         "thumbnail": "https://img.youtube.com/vi/bxhrPYKQiJI/hqdefault.jpg",
-        "duration": "14:50"
+        "duration": "14:50",
+        "isVerified": false
       },
       {
         "id": "vid-elec-1-1-3",
@@ -87,7 +89,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=zSHGuU3anF0",
         "videoId": "zSHGuU3anF0",
         "thumbnail": "https://img.youtube.com/vi/zSHGuU3anF0/hqdefault.jpg",
-        "duration": "16:15"
+        "duration": "16:15",
+        "isVerified": false
       },
       {
         "id": "vid-elec-1-1-4",
@@ -96,7 +99,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=ecXwyLwAyj4",
         "videoId": "ecXwyLwAyj4",
         "thumbnail": "https://img.youtube.com/vi/ecXwyLwAyj4/hqdefault.jpg",
-        "duration": "32:10"
+        "duration": "32:10",
+        "isVerified": false
       },
       {
         "id": "vid-elec-1-1-5",
@@ -105,7 +109,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=bxhrPYKQiJI",
         "videoId": "bxhrPYKQiJI",
         "thumbnail": "https://img.youtube.com/vi/bxhrPYKQiJI/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -150,7 +155,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=scv07SaUvY8",
         "videoId": "scv07SaUvY8",
         "thumbnail": "https://img.youtube.com/vi/scv07SaUvY8/hqdefault.jpg",
-        "duration": "21:04"
+        "duration": "21:04",
+        "isVerified": false
       },
       {
         "id": "vid-elec-1-2-2",
@@ -159,7 +165,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=KzlgiDrmbD8",
         "videoId": "KzlgiDrmbD8",
         "thumbnail": "https://img.youtube.com/vi/KzlgiDrmbD8/hqdefault.jpg",
-        "duration": "15:42"
+        "duration": "15:42",
+        "isVerified": false
       },
       {
         "id": "vid-elec-1-2-3",
@@ -168,7 +175,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=scv07SaUvY8",
         "videoId": "scv07SaUvY8",
         "thumbnail": "https://img.youtube.com/vi/scv07SaUvY8/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-elec-1-2-4",
@@ -177,7 +185,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=KzlgiDrmbD8",
         "videoId": "KzlgiDrmbD8",
         "thumbnail": "https://img.youtube.com/vi/KzlgiDrmbD8/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-elec-1-2-5",
@@ -186,7 +195,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=scv07SaUvY8",
         "videoId": "scv07SaUvY8",
         "thumbnail": "https://img.youtube.com/vi/scv07SaUvY8/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -250,7 +260,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=wqLmqevT2Ds",
         "videoId": "wqLmqevT2Ds",
         "thumbnail": "https://img.youtube.com/vi/wqLmqevT2Ds/hqdefault.jpg",
-        "duration": "23:10"
+        "duration": "23:10",
+        "isVerified": false
       },
       {
         "id": "vid-elec-2-1-2",
@@ -259,7 +270,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=s-ht3vAxG-I",
         "videoId": "s-ht3vAxG-I",
         "thumbnail": "https://img.youtube.com/vi/s-ht3vAxG-I/hqdefault.jpg",
-        "duration": "19:45"
+        "duration": "19:45",
+        "isVerified": false
       },
       {
         "id": "vid-elec-2-1-3",
@@ -268,7 +280,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=s-ht3vAxG-I",
         "videoId": "s-ht3vAxG-I",
         "thumbnail": "https://img.youtube.com/vi/s-ht3vAxG-I/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-elec-2-1-4",
@@ -277,7 +290,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=s-ht3vAxG-I",
         "videoId": "s-ht3vAxG-I",
         "thumbnail": "https://img.youtube.com/vi/s-ht3vAxG-I/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-elec-2-1-5",
@@ -286,7 +300,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=wqLmqevT2Ds",
         "videoId": "wqLmqevT2Ds",
         "thumbnail": "https://img.youtube.com/vi/wqLmqevT2Ds/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -327,7 +342,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=dp9tL47DSRM",
         "videoId": "dp9tL47DSRM",
         "thumbnail": "https://img.youtube.com/vi/dp9tL47DSRM/hqdefault.jpg",
-        "duration": "17:30"
+        "duration": "17:30",
+        "isVerified": false
       },
       {
         "id": "vid-elec-2-2-2",
@@ -336,7 +352,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=vlvtequACKo",
         "videoId": "vlvtequACKo",
         "thumbnail": "https://img.youtube.com/vi/vlvtequACKo/hqdefault.jpg",
-        "duration": "28:15"
+        "duration": "28:15",
+        "isVerified": false
       },
       {
         "id": "vid-elec-2-2-3",
@@ -345,7 +362,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=dp9tL47DSRM",
         "videoId": "dp9tL47DSRM",
         "thumbnail": "https://img.youtube.com/vi/dp9tL47DSRM/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-elec-2-2-4",
@@ -354,7 +372,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=vlvtequACKo",
         "videoId": "vlvtequACKo",
         "thumbnail": "https://img.youtube.com/vi/vlvtequACKo/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-elec-2-2-5",
@@ -363,7 +382,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=dp9tL47DSRM",
         "videoId": "dp9tL47DSRM",
         "thumbnail": "https://img.youtube.com/vi/dp9tL47DSRM/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -408,7 +428,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=o_rVF6Bv_vc",
         "videoId": "o_rVF6Bv_vc",
         "thumbnail": "https://img.youtube.com/vi/o_rVF6Bv_vc/hqdefault.jpg",
-        "duration": "16:50"
+        "duration": "16:50",
+        "isVerified": false
       },
       {
         "id": "vid-elec-2-3-2",
@@ -417,7 +438,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=ekW7uBPyhWA",
         "videoId": "ekW7uBPyhWA",
         "thumbnail": "https://img.youtube.com/vi/ekW7uBPyhWA/hqdefault.jpg",
-        "duration": "14:20"
+        "duration": "14:20",
+        "isVerified": false
       },
       {
         "id": "vid-elec-2-3-3",
@@ -426,7 +448,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=ekW7uBPyhWA",
         "videoId": "ekW7uBPyhWA",
         "thumbnail": "https://img.youtube.com/vi/ekW7uBPyhWA/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-elec-2-3-4",
@@ -435,7 +458,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=o_rVF6Bv_vc",
         "videoId": "o_rVF6Bv_vc",
         "thumbnail": "https://img.youtube.com/vi/o_rVF6Bv_vc/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-elec-2-3-5",
@@ -444,7 +468,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=ekW7uBPyhWA",
         "videoId": "ekW7uBPyhWA",
         "thumbnail": "https://img.youtube.com/vi/ekW7uBPyhWA/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -489,7 +514,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=yWbXGU9Wp_w",
         "videoId": "yWbXGU9Wp_w",
         "thumbnail": "https://img.youtube.com/vi/yWbXGU9Wp_w/hqdefault.jpg",
-        "duration": "31:40"
+        "duration": "31:40",
+        "isVerified": false
       },
       {
         "id": "vid-elec-3-1-2",
@@ -498,7 +524,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=cPz98USIzKk",
         "videoId": "cPz98USIzKk",
         "thumbnail": "https://img.youtube.com/vi/cPz98USIzKk/hqdefault.jpg",
-        "duration": "18:55"
+        "duration": "18:55",
+        "isVerified": false
       },
       {
         "id": "vid-elec-3-1-3",
@@ -507,7 +534,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=yWbXGU9Wp_w",
         "videoId": "yWbXGU9Wp_w",
         "thumbnail": "https://img.youtube.com/vi/yWbXGU9Wp_w/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-elec-3-1-4",
@@ -516,7 +544,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=cPz98USIzKk",
         "videoId": "cPz98USIzKk",
         "thumbnail": "https://img.youtube.com/vi/cPz98USIzKk/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-elec-3-1-5",
@@ -525,7 +554,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=yWbXGU9Wp_w",
         "videoId": "yWbXGU9Wp_w",
         "thumbnail": "https://img.youtube.com/vi/yWbXGU9Wp_w/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -570,7 +600,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=pjomUhbsZ1M",
         "videoId": "pjomUhbsZ1M",
         "thumbnail": "https://img.youtube.com/vi/pjomUhbsZ1M/hqdefault.jpg",
-        "duration": "22:15"
+        "duration": "22:15",
+        "isVerified": false
       },
       {
         "id": "vid-elec-3-2-2",
@@ -579,7 +610,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=OgfYhTaNaCs",
         "videoId": "OgfYhTaNaCs",
         "thumbnail": "https://img.youtube.com/vi/OgfYhTaNaCs/hqdefault.jpg",
-        "duration": "19:30"
+        "duration": "19:30",
+        "isVerified": false
       },
       {
         "id": "vid-elec-3-2-3",
@@ -588,7 +620,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=OgfYhTaNaCs",
         "videoId": "OgfYhTaNaCs",
         "thumbnail": "https://img.youtube.com/vi/OgfYhTaNaCs/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-elec-3-2-4",
@@ -597,7 +630,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=OgfYhTaNaCs",
         "videoId": "OgfYhTaNaCs",
         "thumbnail": "https://img.youtube.com/vi/OgfYhTaNaCs/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-elec-3-2-5",
@@ -606,7 +640,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=pjomUhbsZ1M",
         "videoId": "pjomUhbsZ1M",
         "thumbnail": "https://img.youtube.com/vi/pjomUhbsZ1M/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -742,7 +777,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=PNRSSbaf-2k",
         "videoId": "PNRSSbaf-2k",
         "thumbnail": "https://img.youtube.com/vi/PNRSSbaf-2k/hqdefault.jpg",
-        "duration": "22:15"
+        "duration": "22:15",
+        "isVerified": false
       },
       {
         "id": "vid-elec-3-3-2",
@@ -751,7 +787,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=5gJ8c8rtsMw",
         "videoId": "5gJ8c8rtsMw",
         "thumbnail": "https://img.youtube.com/vi/5gJ8c8rtsMw/hqdefault.jpg",
-        "duration": "20:30"
+        "duration": "20:30",
+        "isVerified": false
       },
       {
         "id": "vid-elec-3-3-3",
@@ -760,7 +797,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=yWbXGU9Wp_w",
         "videoId": "yWbXGU9Wp_w",
         "thumbnail": "https://img.youtube.com/vi/yWbXGU9Wp_w/hqdefault.jpg",
-        "duration": "25:10"
+        "duration": "25:10",
+        "isVerified": false
       },
       {
         "id": "vid-elec-3-3-4",
@@ -769,7 +807,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=yWbXGU9Wp_w",
         "videoId": "yWbXGU9Wp_w",
         "thumbnail": "https://img.youtube.com/vi/yWbXGU9Wp_w/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-elec-3-3-5",
@@ -778,7 +817,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=PNRSSbaf-2k",
         "videoId": "PNRSSbaf-2k",
         "thumbnail": "https://img.youtube.com/vi/PNRSSbaf-2k/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -823,7 +863,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=frg0vIGJzZA",
         "videoId": "frg0vIGJzZA",
         "thumbnail": "https://img.youtube.com/vi/frg0vIGJzZA/hqdefault.jpg",
-        "duration": "15:20"
+        "duration": "15:20",
+        "isVerified": false
       },
       {
         "id": "vid-elec-4-1-2",
@@ -832,7 +873,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=8WS2wMb2K_A",
         "videoId": "8WS2wMb2K_A",
         "thumbnail": "https://img.youtube.com/vi/8WS2wMb2K_A/hqdefault.jpg",
-        "duration": "16:40"
+        "duration": "16:40",
+        "isVerified": false
       },
       {
         "id": "vid-elec-4-1-3",
@@ -841,7 +883,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=frg0vIGJzZA",
         "videoId": "frg0vIGJzZA",
         "thumbnail": "https://img.youtube.com/vi/frg0vIGJzZA/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-elec-4-1-4",
@@ -850,7 +893,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=8WS2wMb2K_A",
         "videoId": "8WS2wMb2K_A",
         "thumbnail": "https://img.youtube.com/vi/8WS2wMb2K_A/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-elec-4-1-5",
@@ -859,7 +903,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=frg0vIGJzZA",
         "videoId": "frg0vIGJzZA",
         "thumbnail": "https://img.youtube.com/vi/frg0vIGJzZA/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -908,7 +953,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=ZOJrHAtTjtA",
         "videoId": "ZOJrHAtTjtA",
         "thumbnail": "https://img.youtube.com/vi/ZOJrHAtTjtA/hqdefault.jpg",
-        "duration": "25:40"
+        "duration": "25:40",
+        "isVerified": false
       },
       {
         "id": "vid-elec-4-2-2",
@@ -917,7 +963,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=EhWnaTbKMbE",
         "videoId": "EhWnaTbKMbE",
         "thumbnail": "https://img.youtube.com/vi/EhWnaTbKMbE/hqdefault.jpg",
-        "duration": "18:10"
+        "duration": "18:10",
+        "isVerified": false
       },
       {
         "id": "vid-elec-4-2-3",
@@ -926,7 +973,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=EhWnaTbKMbE",
         "videoId": "EhWnaTbKMbE",
         "thumbnail": "https://img.youtube.com/vi/EhWnaTbKMbE/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-elec-4-2-4",
@@ -935,7 +983,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=ZOJrHAtTjtA",
         "videoId": "ZOJrHAtTjtA",
         "thumbnail": "https://img.youtube.com/vi/ZOJrHAtTjtA/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-elec-4-2-5",
@@ -944,7 +993,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=EhWnaTbKMbE",
         "videoId": "EhWnaTbKMbE",
         "thumbnail": "https://img.youtube.com/vi/EhWnaTbKMbE/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -1009,7 +1059,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=vDowbJe1kP0",
         "videoId": "vDowbJe1kP0",
         "thumbnail": "https://img.youtube.com/vi/vDowbJe1kP0/hqdefault.jpg",
-        "duration": "27:14"
+        "duration": "27:14",
+        "isVerified": false
       },
       {
         "id": "vid-elec-4-3-2",
@@ -1018,7 +1069,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=8v-FyFf6gEA",
         "videoId": "8v-FyFf6gEA",
         "thumbnail": "https://img.youtube.com/vi/8v-FyFf6gEA/hqdefault.jpg",
-        "duration": "21:30"
+        "duration": "21:30",
+        "isVerified": false
       },
       {
         "id": "vid-elec-4-3-3",
@@ -1027,7 +1079,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=8v-FyFf6gEA",
         "videoId": "8v-FyFf6gEA",
         "thumbnail": "https://img.youtube.com/vi/8v-FyFf6gEA/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-elec-4-3-4",
@@ -1036,7 +1089,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=vDowbJe1kP0",
         "videoId": "vDowbJe1kP0",
         "thumbnail": "https://img.youtube.com/vi/vDowbJe1kP0/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-elec-4-3-5",
@@ -1045,7 +1099,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=8v-FyFf6gEA",
         "videoId": "8v-FyFf6gEA",
         "thumbnail": "https://img.youtube.com/vi/8v-FyFf6gEA/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -1090,7 +1145,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=BQBRYnREqbU",
         "videoId": "BQBRYnREqbU",
         "thumbnail": "https://img.youtube.com/vi/BQBRYnREqbU/hqdefault.jpg",
-        "duration": "19:10"
+        "duration": "19:10",
+        "isVerified": false
       },
       {
         "id": "vid-mat-1-1-2",
@@ -1099,7 +1155,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=BrawqmNGVfU",
         "videoId": "BrawqmNGVfU",
         "thumbnail": "https://img.youtube.com/vi/BrawqmNGVfU/hqdefault.jpg",
-        "duration": "24:45"
+        "duration": "24:45",
+        "isVerified": false
       },
       {
         "id": "vid-mat-1-1-3",
@@ -1108,7 +1165,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=BrawqmNGVfU",
         "videoId": "BrawqmNGVfU",
         "thumbnail": "https://img.youtube.com/vi/BrawqmNGVfU/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-mat-1-1-4",
@@ -1117,7 +1175,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=BQBRYnREqbU",
         "videoId": "BQBRYnREqbU",
         "thumbnail": "https://img.youtube.com/vi/BQBRYnREqbU/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-mat-1-1-5",
@@ -1126,7 +1185,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=BrawqmNGVfU",
         "videoId": "BrawqmNGVfU",
         "thumbnail": "https://img.youtube.com/vi/BrawqmNGVfU/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -1167,7 +1227,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=kroRGJ1gfJU",
         "videoId": "kroRGJ1gfJU",
         "thumbnail": "https://img.youtube.com/vi/kroRGJ1gfJU/hqdefault.jpg",
-        "duration": "18:15"
+        "duration": "18:15",
+        "isVerified": false
       },
       {
         "id": "vid-mat-1-2-2",
@@ -1176,7 +1237,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=BrawqmNGVfU",
         "videoId": "BrawqmNGVfU",
         "thumbnail": "https://img.youtube.com/vi/BrawqmNGVfU/hqdefault.jpg",
-        "duration": "20:10"
+        "duration": "20:10",
+        "isVerified": false
       },
       {
         "id": "vid-mat-1-2-3",
@@ -1185,7 +1247,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=BrawqmNGVfU",
         "videoId": "BrawqmNGVfU",
         "thumbnail": "https://img.youtube.com/vi/BrawqmNGVfU/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-mat-1-2-4",
@@ -1194,7 +1257,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=BrawqmNGVfU",
         "videoId": "BrawqmNGVfU",
         "thumbnail": "https://img.youtube.com/vi/BrawqmNGVfU/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-mat-1-2-5",
@@ -1203,7 +1267,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=kroRGJ1gfJU",
         "videoId": "kroRGJ1gfJU",
         "thumbnail": "https://img.youtube.com/vi/kroRGJ1gfJU/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -1244,7 +1309,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=Iv8BjGnKosA",
         "videoId": "Iv8BjGnKosA",
         "thumbnail": "https://img.youtube.com/vi/Iv8BjGnKosA/hqdefault.jpg",
-        "duration": "21:05"
+        "duration": "21:05",
+        "isVerified": false
       },
       {
         "id": "vid-mat-2-1-2",
@@ -1253,7 +1319,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=BQBRYnREqbU",
         "videoId": "BQBRYnREqbU",
         "thumbnail": "https://img.youtube.com/vi/BQBRYnREqbU/hqdefault.jpg",
-        "duration": "22:40"
+        "duration": "22:40",
+        "isVerified": false
       },
       {
         "id": "vid-mat-2-1-3",
@@ -1262,7 +1329,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=BQBRYnREqbU",
         "videoId": "BQBRYnREqbU",
         "thumbnail": "https://img.youtube.com/vi/BQBRYnREqbU/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-mat-2-1-4",
@@ -1271,7 +1339,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=Iv8BjGnKosA",
         "videoId": "Iv8BjGnKosA",
         "thumbnail": "https://img.youtube.com/vi/Iv8BjGnKosA/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-mat-2-1-5",
@@ -1280,7 +1349,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=BQBRYnREqbU",
         "videoId": "BQBRYnREqbU",
         "thumbnail": "https://img.youtube.com/vi/BQBRYnREqbU/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -1330,7 +1400,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=3Zo6WZnPX4o",
         "videoId": "3Zo6WZnPX4o",
         "thumbnail": "https://img.youtube.com/vi/3Zo6WZnPX4o/hqdefault.jpg",
-        "duration": "26:30"
+        "duration": "26:30",
+        "isVerified": false
       },
       {
         "id": "vid-mat-2-2-2",
@@ -1339,7 +1410,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=9fl9LWX589w",
         "videoId": "9fl9LWX589w",
         "thumbnail": "https://img.youtube.com/vi/9fl9LWX589w/hqdefault.jpg",
-        "duration": "23:15"
+        "duration": "23:15",
+        "isVerified": false
       },
       {
         "id": "vid-mat-2-2-3",
@@ -1348,7 +1420,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=9fl9LWX589w",
         "videoId": "9fl9LWX589w",
         "thumbnail": "https://img.youtube.com/vi/9fl9LWX589w/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-mat-2-2-4",
@@ -1357,7 +1430,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=3Zo6WZnPX4o",
         "videoId": "3Zo6WZnPX4o",
         "thumbnail": "https://img.youtube.com/vi/3Zo6WZnPX4o/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-mat-2-2-5",
@@ -1366,7 +1440,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=9fl9LWX589w",
         "videoId": "9fl9LWX589w",
         "thumbnail": "https://img.youtube.com/vi/9fl9LWX589w/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -1411,7 +1486,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=isVYVkKXzIA",
         "videoId": "isVYVkKXzIA",
         "thumbnail": "https://img.youtube.com/vi/isVYVkKXzIA/hqdefault.jpg",
-        "duration": "24:18"
+        "duration": "24:18",
+        "isVerified": false
       },
       {
         "id": "vid-mat-3-1-2",
@@ -1420,7 +1496,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=YVUqgbcssJ8",
         "videoId": "YVUqgbcssJ8",
         "thumbnail": "https://img.youtube.com/vi/YVUqgbcssJ8/hqdefault.jpg",
-        "duration": "24:18"
+        "duration": "24:18",
+        "isVerified": false
       },
       {
         "id": "vid-mat-3-1-3",
@@ -1429,7 +1506,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=OSt5QkfEHXU",
         "videoId": "OSt5QkfEHXU",
         "thumbnail": "https://img.youtube.com/vi/OSt5QkfEHXU/hqdefault.jpg",
-        "duration": "15:40"
+        "duration": "15:40",
+        "isVerified": false
       },
       {
         "id": "vid-mat-3-1-4",
@@ -1438,7 +1516,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=OSt5QkfEHXU",
         "videoId": "OSt5QkfEHXU",
         "thumbnail": "https://img.youtube.com/vi/OSt5QkfEHXU/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-mat-3-1-5",
@@ -1447,7 +1526,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=isVYVkKXzIA",
         "videoId": "isVYVkKXzIA",
         "thumbnail": "https://img.youtube.com/vi/isVYVkKXzIA/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -1488,7 +1568,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=obd7bkNojGo",
         "videoId": "obd7bkNojGo",
         "thumbnail": "https://img.youtube.com/vi/obd7bkNojGo/hqdefault.jpg",
-        "duration": "22:15"
+        "duration": "22:15",
+        "isVerified": false
       },
       {
         "id": "vid-mat-3-2-2",
@@ -1497,7 +1578,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=dST_xcXT2oo",
         "videoId": "dST_xcXT2oo",
         "thumbnail": "https://img.youtube.com/vi/dST_xcXT2oo/hqdefault.jpg",
-        "duration": "20:30"
+        "duration": "20:30",
+        "isVerified": false
       },
       {
         "id": "vid-mat-3-2-3",
@@ -1506,7 +1588,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=dST_xcXT2oo",
         "videoId": "dST_xcXT2oo",
         "thumbnail": "https://img.youtube.com/vi/dST_xcXT2oo/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-mat-3-2-4",
@@ -1515,7 +1598,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=obd7bkNojGo",
         "videoId": "obd7bkNojGo",
         "thumbnail": "https://img.youtube.com/vi/obd7bkNojGo/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-mat-3-2-5",
@@ -1524,7 +1608,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=dST_xcXT2oo",
         "videoId": "dST_xcXT2oo",
         "thumbnail": "https://img.youtube.com/vi/dST_xcXT2oo/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -1565,7 +1650,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=U9k16Oa4egM",
         "videoId": "U9k16Oa4egM",
         "thumbnail": "https://img.youtube.com/vi/U9k16Oa4egM/hqdefault.jpg",
-        "duration": "23:45"
+        "duration": "23:45",
+        "isVerified": false
       },
       {
         "id": "vid-mat-3-3-2",
@@ -1574,7 +1660,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=ev0jgR2HP-M",
         "videoId": "ev0jgR2HP-M",
         "thumbnail": "https://img.youtube.com/vi/ev0jgR2HP-M/hqdefault.jpg",
-        "duration": "18:50"
+        "duration": "18:50",
+        "isVerified": false
       },
       {
         "id": "vid-mat-3-3-3",
@@ -1583,7 +1670,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=ev0jgR2HP-M",
         "videoId": "ev0jgR2HP-M",
         "thumbnail": "https://img.youtube.com/vi/ev0jgR2HP-M/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-mat-3-3-4",
@@ -1592,7 +1680,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=U9k16Oa4egM",
         "videoId": "U9k16Oa4egM",
         "thumbnail": "https://img.youtube.com/vi/U9k16Oa4egM/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-mat-3-3-5",
@@ -1601,7 +1690,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=ev0jgR2HP-M",
         "videoId": "ev0jgR2HP-M",
         "thumbnail": "https://img.youtube.com/vi/ev0jgR2HP-M/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -1646,7 +1736,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=fUd_j5mqALQ",
         "videoId": "fUd_j5mqALQ",
         "thumbnail": "https://img.youtube.com/vi/fUd_j5mqALQ/hqdefault.jpg",
-        "duration": "17:15"
+        "duration": "17:15",
+        "isVerified": false
       },
       {
         "id": "vid-mech-1-1-2",
@@ -1655,7 +1746,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=ECUA1uh7oHs",
         "videoId": "ECUA1uh7oHs",
         "thumbnail": "https://img.youtube.com/vi/ECUA1uh7oHs/hqdefault.jpg",
-        "duration": "21:30"
+        "duration": "21:30",
+        "isVerified": false
       },
       {
         "id": "vid-mech-1-1-3",
@@ -1664,7 +1756,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=ECUA1uh7oHs",
         "videoId": "ECUA1uh7oHs",
         "thumbnail": "https://img.youtube.com/vi/ECUA1uh7oHs/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-mech-1-1-4",
@@ -1673,7 +1766,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=fUd_j5mqALQ",
         "videoId": "fUd_j5mqALQ",
         "thumbnail": "https://img.youtube.com/vi/fUd_j5mqALQ/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-mech-1-1-5",
@@ -1682,7 +1776,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=ECUA1uh7oHs",
         "videoId": "ECUA1uh7oHs",
         "thumbnail": "https://img.youtube.com/vi/ECUA1uh7oHs/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -1723,7 +1818,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=8SdB5OJb9RA",
         "videoId": "8SdB5OJb9RA",
         "thumbnail": "https://img.youtube.com/vi/8SdB5OJb9RA/hqdefault.jpg",
-        "duration": "19:40"
+        "duration": "19:40",
+        "isVerified": false
       },
       {
         "id": "vid-mech-1-2-2",
@@ -1732,7 +1828,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=cOrk7OREvl0",
         "videoId": "cOrk7OREvl0",
         "thumbnail": "https://img.youtube.com/vi/cOrk7OREvl0/hqdefault.jpg",
-        "duration": "18:10"
+        "duration": "18:10",
+        "isVerified": false
       },
       {
         "id": "vid-mech-1-2-3",
@@ -1741,7 +1838,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=cOrk7OREvl0",
         "videoId": "cOrk7OREvl0",
         "thumbnail": "https://img.youtube.com/vi/cOrk7OREvl0/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-mech-1-2-4",
@@ -1750,7 +1848,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=cOrk7OREvl0",
         "videoId": "cOrk7OREvl0",
         "thumbnail": "https://img.youtube.com/vi/cOrk7OREvl0/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-mech-1-2-5",
@@ -1759,7 +1858,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=8SdB5OJb9RA",
         "videoId": "8SdB5OJb9RA",
         "thumbnail": "https://img.youtube.com/vi/8SdB5OJb9RA/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -1814,7 +1914,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=scv07SaUvY8",
         "videoId": "scv07SaUvY8",
         "thumbnail": "https://img.youtube.com/vi/scv07SaUvY8/hqdefault.jpg",
-        "duration": "21:04"
+        "duration": "21:04",
+        "isVerified": false
       },
       {
         "id": "vid-mech-1-3-2",
@@ -1823,7 +1924,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=aX8J8DgvzBk",
         "videoId": "aX8J8DgvzBk",
         "thumbnail": "https://img.youtube.com/vi/aX8J8DgvzBk/hqdefault.jpg",
-        "duration": "16:50"
+        "duration": "16:50",
+        "isVerified": false
       },
       {
         "id": "vid-mech-1-3-3",
@@ -1832,7 +1934,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=aX8J8DgvzBk",
         "videoId": "aX8J8DgvzBk",
         "thumbnail": "https://img.youtube.com/vi/aX8J8DgvzBk/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-mech-1-3-4",
@@ -1841,7 +1944,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=scv07SaUvY8",
         "videoId": "scv07SaUvY8",
         "thumbnail": "https://img.youtube.com/vi/scv07SaUvY8/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-mech-1-3-5",
@@ -1850,7 +1954,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=aX8J8DgvzBk",
         "videoId": "aX8J8DgvzBk",
         "thumbnail": "https://img.youtube.com/vi/aX8J8DgvzBk/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -1895,7 +2000,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=KHkod_RIONk",
         "videoId": "KHkod_RIONk",
         "thumbnail": "https://img.youtube.com/vi/KHkod_RIONk/hqdefault.jpg",
-        "duration": "17:35"
+        "duration": "17:35",
+        "isVerified": false
       },
       {
         "id": "vid-mech-2-1-2",
@@ -1904,7 +2010,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=3WCHXs7fNJo",
         "videoId": "3WCHXs7fNJo",
         "thumbnail": "https://img.youtube.com/vi/3WCHXs7fNJo/hqdefault.jpg",
-        "duration": "15:20"
+        "duration": "15:20",
+        "isVerified": false
       },
       {
         "id": "vid-mech-2-1-3",
@@ -1913,7 +2020,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=3WCHXs7fNJo",
         "videoId": "3WCHXs7fNJo",
         "thumbnail": "https://img.youtube.com/vi/3WCHXs7fNJo/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-mech-2-1-4",
@@ -1922,7 +2030,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=3WCHXs7fNJo",
         "videoId": "3WCHXs7fNJo",
         "thumbnail": "https://img.youtube.com/vi/3WCHXs7fNJo/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-mech-2-1-5",
@@ -1931,7 +2040,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=KHkod_RIONk",
         "videoId": "KHkod_RIONk",
         "thumbnail": "https://img.youtube.com/vi/KHkod_RIONk/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -1997,7 +2107,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=KHkod_RIONk",
         "videoId": "KHkod_RIONk",
         "thumbnail": "https://img.youtube.com/vi/KHkod_RIONk/hqdefault.jpg",
-        "duration": "17:35"
+        "duration": "17:35",
+        "isVerified": false
       },
       {
         "id": "vid-mech-2-2-2",
@@ -2006,7 +2117,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=ecXwyLwAyj4",
         "videoId": "ecXwyLwAyj4",
         "thumbnail": "https://img.youtube.com/vi/ecXwyLwAyj4/hqdefault.jpg",
-        "duration": "32:10"
+        "duration": "32:10",
+        "isVerified": false
       },
       {
         "id": "vid-mech-2-2-3",
@@ -2015,7 +2127,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=ecXwyLwAyj4",
         "videoId": "ecXwyLwAyj4",
         "thumbnail": "https://img.youtube.com/vi/ecXwyLwAyj4/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-mech-2-2-4",
@@ -2024,7 +2137,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=KHkod_RIONk",
         "videoId": "KHkod_RIONk",
         "thumbnail": "https://img.youtube.com/vi/KHkod_RIONk/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-mech-2-2-5",
@@ -2033,7 +2147,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=ecXwyLwAyj4",
         "videoId": "ecXwyLwAyj4",
         "thumbnail": "https://img.youtube.com/vi/ecXwyLwAyj4/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -2092,7 +2207,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=YbEwPZh6fz8",
         "videoId": "YbEwPZh6fz8",
         "thumbnail": "https://img.youtube.com/vi/YbEwPZh6fz8/hqdefault.jpg",
-        "duration": "24:10"
+        "duration": "24:10",
+        "isVerified": false
       },
       {
         "id": "vid-mech-3-1-2",
@@ -2101,7 +2217,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=tZNHH0VVOjw",
         "videoId": "tZNHH0VVOjw",
         "thumbnail": "https://img.youtube.com/vi/tZNHH0VVOjw/hqdefault.jpg",
-        "duration": "18:25"
+        "duration": "18:25",
+        "isVerified": false
       },
       {
         "id": "vid-mech-3-1-3",
@@ -2110,7 +2227,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=tZNHH0VVOjw",
         "videoId": "tZNHH0VVOjw",
         "thumbnail": "https://img.youtube.com/vi/tZNHH0VVOjw/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-mech-3-1-4",
@@ -2119,7 +2237,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=YbEwPZh6fz8",
         "videoId": "YbEwPZh6fz8",
         "thumbnail": "https://img.youtube.com/vi/YbEwPZh6fz8/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-mech-3-1-5",
@@ -2128,7 +2247,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=tZNHH0VVOjw",
         "videoId": "tZNHH0VVOjw",
         "thumbnail": "https://img.youtube.com/vi/tZNHH0VVOjw/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -2183,7 +2303,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=vW6kVgSliSI",
         "videoId": "vW6kVgSliSI",
         "thumbnail": "https://img.youtube.com/vi/vW6kVgSliSI/hqdefault.jpg",
-        "duration": "27:40"
+        "duration": "27:40",
+        "isVerified": false
       },
       {
         "id": "vid-mech-3-2-2",
@@ -2192,7 +2313,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=tegMGGszRgk",
         "videoId": "tegMGGszRgk",
         "thumbnail": "https://img.youtube.com/vi/tegMGGszRgk/hqdefault.jpg",
-        "duration": "22:15"
+        "duration": "22:15",
+        "isVerified": false
       },
       {
         "id": "vid-mech-3-2-3",
@@ -2201,7 +2323,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=tegMGGszRgk",
         "videoId": "tegMGGszRgk",
         "thumbnail": "https://img.youtube.com/vi/tegMGGszRgk/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-mech-3-2-4",
@@ -2210,7 +2333,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=vW6kVgSliSI",
         "videoId": "vW6kVgSliSI",
         "thumbnail": "https://img.youtube.com/vi/vW6kVgSliSI/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-mech-3-2-5",
@@ -2219,7 +2343,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=tegMGGszRgk",
         "videoId": "tegMGGszRgk",
         "thumbnail": "https://img.youtube.com/vi/tegMGGszRgk/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -2312,7 +2437,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=SsnczWPgvo8",
         "videoId": "SsnczWPgvo8",
         "thumbnail": "https://img.youtube.com/vi/SsnczWPgvo8/hqdefault.jpg",
-        "duration": "26:12"
+        "duration": "26:12",
+        "isVerified": false
       },
       {
         "id": "vid-mech-4-1-2",
@@ -2321,7 +2447,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=WAYApQwrQT0",
         "videoId": "WAYApQwrQT0",
         "thumbnail": "https://img.youtube.com/vi/WAYApQwrQT0/hqdefault.jpg",
-        "duration": "19:40"
+        "duration": "19:40",
+        "isVerified": false
       },
       {
         "id": "vid-mech-4-1-3",
@@ -2330,7 +2457,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=GOGzXdi5riw",
         "videoId": "GOGzXdi5riw",
         "thumbnail": "https://img.youtube.com/vi/GOGzXdi5riw/hqdefault.jpg",
-        "duration": "20:15"
+        "duration": "20:15",
+        "isVerified": false
       },
       {
         "id": "vid-mech-4-1-4",
@@ -2339,7 +2467,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=GOGzXdi5riw",
         "videoId": "GOGzXdi5riw",
         "thumbnail": "https://img.youtube.com/vi/GOGzXdi5riw/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-mech-4-1-5",
@@ -2348,7 +2477,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=SsnczWPgvo8",
         "videoId": "SsnczWPgvo8",
         "thumbnail": "https://img.youtube.com/vi/SsnczWPgvo8/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -2408,7 +2538,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=GIYDkJSNrUM",
         "videoId": "GIYDkJSNrUM",
         "thumbnail": "https://img.youtube.com/vi/GIYDkJSNrUM/hqdefault.jpg",
-        "duration": "25:30"
+        "duration": "25:30",
+        "isVerified": false
       },
       {
         "id": "vid-mech-4-2-2",
@@ -2417,7 +2548,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=hMaemsBplYo",
         "videoId": "hMaemsBplYo",
         "thumbnail": "https://img.youtube.com/vi/hMaemsBplYo/hqdefault.jpg",
-        "duration": "21:10"
+        "duration": "21:10",
+        "isVerified": false
       },
       {
         "id": "vid-mech-4-2-3",
@@ -2426,7 +2558,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=GIYDkJSNrUM",
         "videoId": "GIYDkJSNrUM",
         "thumbnail": "https://img.youtube.com/vi/GIYDkJSNrUM/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-mech-4-2-4",
@@ -2435,7 +2568,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=hMaemsBplYo",
         "videoId": "hMaemsBplYo",
         "thumbnail": "https://img.youtube.com/vi/hMaemsBplYo/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-mech-4-2-5",
@@ -2444,7 +2578,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=GIYDkJSNrUM",
         "videoId": "GIYDkJSNrUM",
         "thumbnail": "https://img.youtube.com/vi/GIYDkJSNrUM/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -2514,7 +2649,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=YzaDOjEhl1E",
         "videoId": "YzaDOjEhl1E",
         "thumbnail": "https://img.youtube.com/vi/YzaDOjEhl1E/hqdefault.jpg",
-        "duration": "16:45"
+        "duration": "16:45",
+        "isVerified": false
       },
       {
         "id": "vid-opt-1-1-2",
@@ -2523,7 +2659,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=XhReJ4eh9v4",
         "videoId": "XhReJ4eh9v4",
         "thumbnail": "https://img.youtube.com/vi/XhReJ4eh9v4/hqdefault.jpg",
-        "duration": "18:50"
+        "duration": "18:50",
+        "isVerified": false
       },
       {
         "id": "vid-opt-1-1-3",
@@ -2532,7 +2669,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=XhReJ4eh9v4",
         "videoId": "XhReJ4eh9v4",
         "thumbnail": "https://img.youtube.com/vi/XhReJ4eh9v4/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-opt-1-1-4",
@@ -2541,7 +2679,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=YzaDOjEhl1E",
         "videoId": "YzaDOjEhl1E",
         "thumbnail": "https://img.youtube.com/vi/YzaDOjEhl1E/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-opt-1-1-5",
@@ -2550,7 +2689,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=XhReJ4eh9v4",
         "videoId": "XhReJ4eh9v4",
         "thumbnail": "https://img.youtube.com/vi/XhReJ4eh9v4/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -2591,7 +2731,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=aU02pF6vZP4",
         "videoId": "aU02pF6vZP4",
         "thumbnail": "https://img.youtube.com/vi/aU02pF6vZP4/hqdefault.jpg",
-        "duration": "19:20"
+        "duration": "19:20",
+        "isVerified": false
       },
       {
         "id": "vid-opt-2-1-2",
@@ -2600,7 +2741,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=IxN3PYqIZH4",
         "videoId": "IxN3PYqIZH4",
         "thumbnail": "https://img.youtube.com/vi/IxN3PYqIZH4/hqdefault.jpg",
-        "duration": "16:10"
+        "duration": "16:10",
+        "isVerified": false
       },
       {
         "id": "vid-opt-2-1-3",
@@ -2609,7 +2751,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=IxN3PYqIZH4",
         "videoId": "IxN3PYqIZH4",
         "thumbnail": "https://img.youtube.com/vi/IxN3PYqIZH4/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-opt-2-1-4",
@@ -2618,7 +2761,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=aU02pF6vZP4",
         "videoId": "aU02pF6vZP4",
         "thumbnail": "https://img.youtube.com/vi/aU02pF6vZP4/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-opt-2-1-5",
@@ -2627,7 +2771,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=IxN3PYqIZH4",
         "videoId": "IxN3PYqIZH4",
         "thumbnail": "https://img.youtube.com/vi/IxN3PYqIZH4/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -2692,7 +2837,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=hpbryYWG4d4",
         "videoId": "hpbryYWG4d4",
         "thumbnail": "https://img.youtube.com/vi/hpbryYWG4d4/hqdefault.jpg",
-        "duration": "15:30"
+        "duration": "15:30",
+        "isVerified": false
       },
       {
         "id": "vid-opt-2-2-2",
@@ -2701,7 +2847,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=XhReJ4eh9v4",
         "videoId": "XhReJ4eh9v4",
         "thumbnail": "https://img.youtube.com/vi/XhReJ4eh9v4/hqdefault.jpg",
-        "duration": "18:50"
+        "duration": "18:50",
+        "isVerified": false
       },
       {
         "id": "vid-opt-2-2-3",
@@ -2710,7 +2857,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=XhReJ4eh9v4",
         "videoId": "XhReJ4eh9v4",
         "thumbnail": "https://img.youtube.com/vi/XhReJ4eh9v4/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-opt-2-2-4",
@@ -2719,7 +2867,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=XhReJ4eh9v4",
         "videoId": "XhReJ4eh9v4",
         "thumbnail": "https://img.youtube.com/vi/XhReJ4eh9v4/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-opt-2-2-5",
@@ -2728,7 +2877,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=hpbryYWG4d4",
         "videoId": "hpbryYWG4d4",
         "thumbnail": "https://img.youtube.com/vi/hpbryYWG4d4/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   },
@@ -2773,7 +2923,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=x4e4qeM4LE8",
         "videoId": "x4e4qeM4LE8",
         "thumbnail": "https://img.youtube.com/vi/x4e4qeM4LE8/hqdefault.jpg",
-        "duration": "17:40"
+        "duration": "17:40",
+        "isVerified": false
       },
       {
         "id": "vid-opt-2-3-2",
@@ -2782,7 +2933,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=aU02pF6vZP4",
         "videoId": "aU02pF6vZP4",
         "thumbnail": "https://img.youtube.com/vi/aU02pF6vZP4/hqdefault.jpg",
-        "duration": "19:20"
+        "duration": "19:20",
+        "isVerified": false
       },
       {
         "id": "vid-opt-2-3-3",
@@ -2791,7 +2943,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=aU02pF6vZP4",
         "videoId": "aU02pF6vZP4",
         "thumbnail": "https://img.youtube.com/vi/aU02pF6vZP4/hqdefault.jpg",
-        "duration": "20:34"
+        "duration": "20:34",
+        "isVerified": false
       },
       {
         "id": "vid-opt-2-3-4",
@@ -2800,7 +2953,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=x4e4qeM4LE8",
         "videoId": "x4e4qeM4LE8",
         "thumbnail": "https://img.youtube.com/vi/x4e4qeM4LE8/hqdefault.jpg",
-        "duration": "23:41"
+        "duration": "23:41",
+        "isVerified": false
       },
       {
         "id": "vid-opt-2-3-5",
@@ -2809,7 +2963,8 @@
         "youtubeUrl": "https://www.youtube.com/watch?v=aU02pF6vZP4",
         "videoId": "aU02pF6vZP4",
         "thumbnail": "https://img.youtube.com/vi/aU02pF6vZP4/hqdefault.jpg",
-        "duration": "26:48"
+        "duration": "26:48",
+        "isVerified": false
       }
     ]
   }

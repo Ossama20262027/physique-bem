@@ -29,7 +29,7 @@ import { Field, Lesson, VideoItem, Exercise, UserProgress, FieldId } from '../ty
 import { dataStore } from '../services/store';
 import { triggerConfetti } from '../utils/confetti';
 import { AddVideoModal } from '../components/AddVideoModal';
-import { getLibraryLessonById } from '../data/lessonsLibrary';
+import { getLibraryLessonById, isLessonDownloadReal, subscribeLibrary } from '../data/lessonsLibrary';
 
 interface LessonsViewProps {
   curriculum: Field[];
@@ -220,11 +220,10 @@ export const LessonsView: React.FC<LessonsViewProps> = ({
           {/* Actions: Ask AI & Download Lesson PDF/Word */}
           {(() => {
             const libLesson = getLibraryLessonById(currentLesson.id);
-            const hasDownload = Boolean(
-              libLesson?.download.isAvailable &&
-              (libLesson?.download.pdfUrl || libLesson?.download.wordUrl)
-            );
-            const downloadUrl = libLesson?.download.pdfUrl || libLesson?.download.wordUrl;
+            const isReal = isLessonDownloadReal(libLesson?.download);
+            const rawUrl = (libLesson?.download.pdfUrl || libLesson?.download.wordUrl || '').trim();
+            const hasDownload = isReal && !rawUrl.includes('example.com') && rawUrl !== '';
+            const downloadUrl = hasDownload ? rawUrl : '';
             const fileType = libLesson?.download.fileType === 'word' ? 'Word' : 'PDF';
 
             return (
@@ -251,7 +250,7 @@ export const LessonsView: React.FC<LessonsViewProps> = ({
                 ) : (
                   <div className="inline-flex items-center gap-1.5 px-3 py-2 rounded-xl bg-slate-100 dark:bg-slate-800 text-slate-500 dark:text-slate-400 text-xs font-medium border border-slate-200 dark:border-slate-700">
                     <AlertCircle className="w-3.5 h-3.5 text-slate-400" />
-                    <span>تحميل الدرس: غير متوفر حاليًا</span>
+                    <span>الملف غير متوفر حاليًا</span>
                   </div>
                 )}
               </div>

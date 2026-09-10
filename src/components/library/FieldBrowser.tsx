@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import {
   Search,
   Filter,
@@ -15,6 +15,7 @@ import {
   Play,
   CheckCircle2,
   AlertCircle,
+  Clock,
   BookOpen,
   GraduationCap,
   Sparkles
@@ -24,7 +25,9 @@ import {
   getAllLibraryLessons,
   getLibraryFields,
   getLibrarySubjects,
-  searchLibraryLessons
+  searchLibraryLessons,
+  isLessonDownloadReal,
+  subscribeLibrary
 } from '../../data/lessonsLibrary';
 
 interface FieldBrowserProps {
@@ -32,6 +35,12 @@ interface FieldBrowserProps {
 }
 
 export const FieldBrowser: React.FC<FieldBrowserProps> = ({ onSelectLesson }) => {
+  const [, setRerender] = useState(0);
+
+  useEffect(() => {
+    return subscribeLibrary(() => setRerender((v) => v + 1));
+  }, []);
+
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedField, setSelectedField] = useState<string>('all');
   const [selectedSubject, setSelectedSubject] = useState<string>('all');
@@ -45,7 +54,7 @@ export const FieldBrowser: React.FC<FieldBrowserProps> = ({ onSelectLesson }) =>
     let list = searchLibraryLessons(searchQuery, selectedField, selectedSubject);
 
     if (onlyAvailableDownload) {
-      list = list.filter((l) => l.download.isAvailable);
+      list = list.filter((l) => isLessonDownloadReal(l.download));
     }
 
     return list;
@@ -54,7 +63,8 @@ export const FieldBrowser: React.FC<FieldBrowserProps> = ({ onSelectLesson }) =>
   // Field stats
   const allLessons = getAllLibraryLessons();
   const totalVideos = allLessons.reduce((acc, l) => acc + l.videos.length, 0);
-  const totalDownloads = allLessons.filter((l) => l.download.isAvailable).length;
+  const totalDownloads = allLessons.filter((l) => isLessonDownloadReal(l.download)).length;
+
 
   const getFieldIcon = (fieldId: string) => {
     switch (fieldId) {
@@ -273,12 +283,10 @@ export const FieldBrowser: React.FC<FieldBrowserProps> = ({ onSelectLesson }) =>
       ) : (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           {filteredLessons.map((lesson) => {
-            const hasDownload = Boolean(
-              lesson.download.isAvailable &&
-                (lesson.download.pdfUrl || lesson.download.wordUrl)
-            );
+            const hasDownload = isLessonDownloadReal(lesson.download);
             const fileTypeLabel =
               lesson.download.fileType === 'word' ? 'Word' : 'PDF';
+            const verifiedCount = lesson.videos.filter((v) => v.isVerified).length;
 
             return (
               <div
@@ -330,9 +338,17 @@ export const FieldBrowser: React.FC<FieldBrowserProps> = ({ onSelectLesson }) =>
                       <span>{lesson.videos.length} شروحات فيديو متوفرة</span>
                     </div>
 
-                    <span className="text-[10px] px-1.5 py-0.5 rounded bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 font-medium border border-slate-200 dark:border-slate-700">
-                      5 أساتذة
-                    </span>
+                    <div className="flex items-center gap-1 text-[10px]">
+                      {verifiedCount === lesson.videos.length ? (
+                        <span className="px-1.5 py-0.5 rounded bg-emerald-100 dark:bg-emerald-950/60 text-emerald-700 dark:text-emerald-300 font-semibold border border-emerald-300 dark:border-emerald-800">
+                          متحقق منها كلها
+                        </span>
+                      ) : (
+                        <span className="px-1.5 py-0.5 rounded bg-amber-100 dark:bg-amber-950/60 text-amber-700 dark:text-amber-300 font-medium border border-amber-300 dark:border-amber-800">
+                          {verifiedCount}/{lesson.videos.length} متحقق منه
+                        </span>
+                      )}
+                    </div>
                   </div>
 
                   {/* Download Status Badge */}
@@ -345,7 +361,7 @@ export const FieldBrowser: React.FC<FieldBrowserProps> = ({ onSelectLesson }) =>
                     ) : (
                       <div className="flex items-center gap-1.5 text-[11px] text-slate-400 font-medium">
                         <AlertCircle className="w-3.5 h-3.5 text-slate-400" />
-                        <span>تحميل الدرس: غير متوفر حاليًا</span>
+                        <span>الملف غير متوفر حاليًا</span>
                       </div>
                     )}
                   </div>
